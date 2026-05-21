@@ -1,0 +1,121 @@
+[
+  {
+    "id": "spec_anti_gravity",
+    "name": "0,125 Hz — Anti-gravité spéculative",
+    "category": "SPECULATIVE",
+    "frequencies": [0.125],
+    "tradition": "Théoriciens de l'énergie libre inspirés de Tesla — sous-fréquence de résonance gravitationnelle",
+    "intentions": ["anti-gravité", "inversion masse", "lévitation", "polarité gravitationnelle"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 100, "delta": 0.125 },
+    "warning": "Théorie spéculative non prouvée. Casque stéréo obligatoire — battement binaural ultra-lent."
+  },
+  {
+    "id": "spec_ego_vaporization",
+    "name": "40 Hz — Vaporisation de l'égo",
+    "category": "SPECULATIVE",
+    "frequencies": [40],
+    "tradition": "Machines à ondes russes — recherches sur états de conscience altérés",
+    "intentions": ["lucidité", "rêve lucide", "voyage hors du corps", "dissolution égo"],
+    "waveType": "sine",
+    "playMode": "continuous"
+  },
+  {
+    "id": "spec_holy_111",
+    "name": "111 Hz — La Fréquence Sainte",
+    "category": "SPECULATIVE",
+    "frequencies": [111],
+    "tradition": "Analyse acoustique temples néolithiques (Hypogée de Hal Saflieni, Malte) — Dr. Ian Cook, UCLA",
+    "intentions": ["transe chamanique", "désactivation cortex préfrontal gauche", "états altérés"],
+    "waveType": "sine",
+    "playMode": "continuous"
+  },
+  {
+    "id": "spec_keely_water",
+    "name": "42 800 Hz — Désintégration moléculaire (Keely)",
+    "category": "SPECULATIVE",
+    "frequencies": [42800],
+    "tradition": "John Ernst Worrell Keely — XIXe siècle, 'Sympathetic Vibratory Physics'",
+    "intentions": ["désintégration eau", "force intermoléculaire", "énergie keelienne", "lévitation objets lourds"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "warning": "Fréquence très élevée (42,8 kHz). Théorie du XIXe siècle, jamais reproduite en laboratoire."
+  },
+  {
+    "id": "spec_quartz_activation",
+    "name": "32 768 Hz — Activation du Quartz",
+    "category": "SPECULATIVE",
+    "frequencies": [32768],
+    "tradition": "Oscillation standard cristaux de quartz — réinterprétation ésotérique des montres à quartz",
+    "intentions": ["activation cristaux", "amplification pensée", "télékinésie", "canal pyramidal"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "warning": "Fréquence ultrasonique (32 kHz). Non perceptible par l'oreille humaine — usage expérimental uniquement."
+  },
+  {
+    "id": "spec_golden_ratio",
+    "name": "161,8 Hz — Nombre d'Or (Φ)",
+    "category": "SPECULATIVE",
+    "frequencies": [161.8],
+    "tradition": "Architecture sacrée — transposition du Nombre d'Or (1,618) en fréquence par multiplication harmonique",
+    "intentions": ["proportion divine", "chaos électromagnétique", "régénération accélérée", "géométrie sacrée"],
+    "waveType": "sine",
+    "playMode": "continuous"
+  },
+  {
+    "id": "spec_calligaris_ancestral",
+    "name": "18,5 Hz — Mémoire ancestrale (Calligaris)",
+    "category": "SPECULATIVE",
+    "frequencies": [18.5],
+    "tradition": "Dr. Giuseppe Calligaris, 1930 — 'Linéaments du corps et du ciel', continuateurs modernes",
+    "intentions": ["mémoire ancestrale", "vies antérieures", "souvenirs génétiques"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 200, "delta": 18.5 }
+  },
+  {
+    "id": "spec_calligaris_radiesthesia",
+    "name": "25,3 Hz — Radiesthésie mentale (Calligaris)",
+    "category": "SPECULATIVE",
+    "frequencies": [25.3],
+    "tradition": "Dr. Giuseppe Calligaris, 1930 — continuateurs modernes",
+    "intentions": ["radiesthésie", "localisation objets perdus", "sources d'eau", "biomagnétisme"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 220, "delta": 25.3 }
+  },
+  {
+    "id": "spec_depression_elf",
+    "name": "6,66 Hz — ELF / Induction dépression (guerre psychotronique)",
+    "category": "SPECULATIVE",
+    "frequencies": [6.66],
+    "tradition": "Théorie de la guerre psychotronique — signaux ELF (Extremely Low Frequency)",
+    "intentions": ["étude", "contre-mesures", "compréhension manipulation"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 200, "delta": 6.66 },
+    "warning": "Usage strictement éducatif et d'étude. Théorie complotiste — aucune preuve scientifique de cet effet."
+  },
+  {
+    "id": "spec_kymatic_ether",
+    "name": "1 050 Hz — Motif de l'éther (Kymatique)",
+    "category": "SPECULATIVE",
+    "frequencies": [1050],
+    "tradition": "Hans Jenny — Kymatique (1967) + interprétations ésotériques modernes",
+    "intentions": ["structures cristallines", "hexagones", "annulation friction", "géométrie éther"],
+    "waveType": "sine",
+    "playMode": "continuous"
+  },
+  {
+    "id": "spec_rife_universal",
+    "name": "727 + 787 + 880 Hz — Trio universel (Rife)",
+    "category": "SPECULATIVE",
+    "frequencies": [727, 787, 880],
+    "tradition": "Royal Raymond Rife — années 1930. Trio de fréquences 'remède universel'.",
+    "intentions": ["infections bactériennes", "immunité", "nettoyage général"],
+    "waveType": "sine",
+    "playMode": "sequential",
+    "warning": "Théorie de Rife non validée par la médecine moderne. Usage expérimental uniquement."
+  }
+]

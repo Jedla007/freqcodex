@@ -1,0 +1,90 @@
+[
+  {
+    "id": "plan_earth_year",
+    "name": "Terre (Année) — 136,10 Hz",
+    "category": "PLANETARY",
+    "frequencies": [136.10],
+    "tradition": "Hans Cousto — 'Die kosmische Oktave', 1978. Orbite terrestre transposée en Hertz par la loi de l'octave.",
+    "intentions": ["OM", "relaxation profonde", "recentrage âme", "méditation indienne"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "color": "#16a34a"
+  },
+  {
+    "id": "plan_moon",
+    "name": "Lune — 210,42 Hz",
+    "category": "PLANETARY",
+    "frequencies": [210.42],
+    "tradition": "Hans Cousto — 'Die kosmische Oktave', 1978. Rotation lunaire.",
+    "intentions": ["énergie sexuelle", "eau corporelle", "psychisme féminin", "cycles"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "color": "#94a3b8"
+  },
+  {
+    "id": "plan_sun",
+    "name": "Soleil — 126,22 Hz",
+    "category": "PLANETARY",
+    "frequencies": [126.22],
+    "tradition": "Hans Cousto — 'Die kosmische Oktave', 1978. Rotation solaire.",
+    "intentions": ["confiance en soi", "force vitale", "chaleur", "charisme", "vitalité"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "plan_mercury",
+    "name": "Mercure — 141,27 Hz",
+    "category": "PLANETARY",
+    "frequencies": [141.27],
+    "tradition": "Hans Cousto — 'Die kosmische Oktave', 1978. Orbite de Mercure.",
+    "intentions": ["intellect", "communication", "apprentissage rapide", "écriture"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "color": "#a3a3a3"
+  },
+  {
+    "id": "plan_venus",
+    "name": "Vénus — 221,23 Hz",
+    "category": "PLANETARY",
+    "frequencies": [221.23],
+    "tradition": "Hans Cousto — 'Die kosmische Oktave', 1978. Orbite de Vénus.",
+    "intentions": ["amour", "beauté", "sensibilité artistique", "harmonie", "création"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "color": "#f472b6"
+  },
+  {
+    "id": "plan_mars",
+    "name": "Mars — 144,72 Hz",
+    "category": "PLANETARY",
+    "frequencies": [144.72],
+    "tradition": "Hans Cousto — 'Die kosmische Oktave', 1978. Orbite de Mars.",
+    "intentions": ["courage", "volonté", "action", "énergie physique", "agressivité positive", "arts martiaux"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "color": "#ef4444"
+  },
+  {
+    "id": "plan_jupiter",
+    "name": "Jupiter — 183,58 Hz",
+    "category": "PLANETARY",
+    "frequencies": [183.58],
+    "tradition": "Hans Cousto — 'Die kosmische Oktave', 1978. Orbite de Jupiter.",
+    "intentions": ["chance", "expansion", "générosité", "optimisme", "spiritualité"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "color": "#f97316"
+  },
+  {
+    "id": "plan_saturn",
+    "name": "Saturne — 147,85 Hz",
+    "category": "PLANETARY",
+    "frequencies": [147.85],
+    "tradition": "Hans Cousto — 'Die kosmische Oktave', 1978. Orbite de Saturne.",
+    "intentions": ["discipline", "karma", "structure", "persévérance", "maîtrise"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "color": "#78716c"
+  }
+]

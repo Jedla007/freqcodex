@@ -1,0 +1,154 @@
+[
+  {
+    "id": "rife_arthritis_general_0",
+    "name": "Arthritis (General)",
+    "category": "RIFE",
+    "frequencies": [10000, 3000, 880, 787, 727, 20],
+    "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
+    "intentions": ["arthrite", "articulations", "douleur articulaire", "inflammation"],
+    "waveType": "sine",
+    "playMode": "sequential"
+  },
+  {
+    "id": "rife_arthritis_rheumatoid_1",
+    "name": "Arthritis (Rheumatoid)",
+    "category": "RIFE",
+    "frequencies": [10000, 3000, 1600, 880, 787, 776, 727, 660, 465, 20],
+    "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
+    "intentions": ["polyarthrite", "rhumatisme", "auto-immune", "articulations"],
+    "waveType": "sine",
+    "playMode": "sequential"
+  },
+  {
+    "id": "rife_cancer_carcinoma_2",
+    "name": "Cancer (Carcinoma)",
+    "category": "RIFE",
+    "frequencies": [2008, 2127, 11780000],
+    "tradition": "Royal Raymond Rife / CAFL — fréquences MOR (Mortal Oscillatory Rate)",
+    "intentions": ["carcinome", "cellules cancéreuses", "tumeur"],
+    "waveType": "sine",
+    "playMode": "sequential",
+    "warning": "Usage expérimental strictement non médical. Jamais prouvé cliniquement."
+  },
+  {
+    "id": "rife_cancer_sarcoma_3",
+    "name": "Cancer (Sarcoma)",
+    "category": "RIFE",
+    "frequencies": [2008, 2084, 2127],
+    "tradition": "Royal Raymond Rife / CAFL — fréquences MOR",
+    "intentions": ["sarcome", "tissu conjonctif", "tumeur"],
+    "waveType": "sine",
+    "playMode": "sequential",
+    "warning": "Usage expérimental strictement non médical."
+  },
+  {
+    "id": "rife_bacteria_general_4",
+    "name": "Bacteria (General)",
+    "category": "RIFE",
+    "frequencies": [727, 787, 880, 5000],
+    "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
+    "intentions": ["bactéries", "infection", "antibactérien"],
+    "waveType": "sine",
+    "playMode": "sequential"
+  },
+  {
+    "id": "rife_virus_general_5",
+    "name": "Virus (General)",
+    "category": "RIFE",
+    "frequencies": [465, 728, 784, 880],
+    "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
+    "intentions": ["virus", "antiviral", "immunité"],
+    "waveType": "sine",
+    "playMode": "sequential"
+  },
+  {
+    "id": "rife_fatigue_chronic_6",
+    "name": "Fatigue (Chronic)",
+    "category": "RIFE",
+    "frequencies": [1550, 880, 802, 787, 776, 727, 465, 20],
+    "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
+    "intentions": ["fatigue chronique", "épuisement", "énergie", "vitalité"],
+    "waveType": "sine",
+    "playMode": "sequential"
+  },
+  {
+    "id": "rife_depression_7",
+    "name": "Depression",
+    "category": "RIFE",
+    "frequencies": [10000, 5000, 728, 20],
+    "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
+    "intentions": ["dépression", "humeur", "moral", "anxiété"],
+    "waveType": "sine",
+    "playMode": "sequential"
+  },
+  {
+    "id": "rife_insomnia_8",
+    "name": "Insomnia",
+    "category": "RIFE",
+    "frequencies": [3, 6, 10, 40, 111, 432],
+    "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
+    "intentions": ["insomnie", "sommeil", "relaxation", "endormissement"],
+    "waveType": "sine",
+    "playMode": "sequential"
+  },
+  {
+    "id": "rife_pain_general_9",
+    "name": "Pain (General)",
+    "category": "RIFE",
+    "frequencies": [3000, 95, 3, 20],
+    "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
+    "intentions": ["douleur", "analgésique", "anti-douleur"],
+    "waveType": "sine",
+    "playMode": "sequential"
+  },
+  {
+    "id": "rife_immune_stimulate_10",
+    "name": "Immune System Stimulation",
+    "category": "RIFE",
+    "frequencies": [835, 855, 880, 885, 1500, 1550, 2000, 2008, 2127],
+    "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
+    "intentions": ["immunité", "système immunitaire", "défenses", "stimulation"],
+    "waveType": "sine",
+    "playMode": "sequential"
+  },
+  {
+    "id": "rife_headache_12",
+    "name": "Headache",
+    "category": "RIFE",
+    "frequencies": [10000, 304, 120, 20],
+    "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
+    "intentions": ["maux de tête", "céphalées", "migraine"],
+    "waveType": "sine",
+    "playMode": "sequential"
+  },
+  {
+    "id": "rife_stress_13",
+    "name": "Stress",
+    "category": "RIFE",
+    "frequencies": [10000, 1550, 880, 802, 787, 776, 727, 465, 20],
+    "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
+    "intentions": ["stress", "anxiété", "tension nerveuse", "relaxation"],
+    "waveType": "sine",
+    "playMode": "sequential"
+  },
+  {
+    "id": "rife_parasites_14",
+    "name": "Parasites (General)",
+    "category": "RIFE",
+    "frequencies": [1550, 802, 832, 1500],
+    "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
+    "intentions": ["parasites", "intestinal", "détox"],
+    "waveType": "sine",
+    "playMode": "sequential"
+  },
+  {
+    "id": "rife_detox_15",
+    "name": "Detoxification",
+    "category": "RIFE",
+    "frequencies": [10000, 5000, 3000, 1550, 880, 787, 727, 465, 444, 20],
+    "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
+    "intentions": ["détox", "détoxification", "nettoyage", "foie", "toxines"],
+    "waveType": "sine",
+    "playMode": "sequential"
+  }
+]

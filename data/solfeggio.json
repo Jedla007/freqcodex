@@ -1,0 +1,122 @@
+[
+  {
+    "id": "solf_174",
+    "name": "174 Hz — Anesthésique naturel",
+    "category": "SOLFEGGIO",
+    "frequencies": [174],
+    "tradition": "Fréquences de Solfeggio — tradition grégorienne ésotérique",
+    "intentions": ["réduction douleur", "sécurité", "stress", "ancrage organes"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "chakra": "Racine",
+    "color": "#b91c1c"
+  },
+  {
+    "id": "solf_285",
+    "name": "285 Hz — Régénérateur cellulaire",
+    "category": "SOLFEGGIO",
+    "frequencies": [285],
+    "tradition": "Fréquences de Solfeggio — tradition grégorienne ésotérique",
+    "intentions": ["régénération tissulaire", "guérison coupures", "réparation cellulaire"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "chakra": "Racine",
+    "color": "#c2410c"
+  },
+  {
+    "id": "solf_396",
+    "name": "396 Hz — Libération de la peur",
+    "category": "SOLFEGGIO",
+    "frequencies": [396],
+    "tradition": "Fréquences de Solfeggio — tradition grégorienne ésotérique",
+    "intentions": ["peur", "culpabilité", "blocages subconscients", "chakra racine"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "chakra": "Racine",
+    "color": "#dc2626"
+  },
+  {
+    "id": "solf_417",
+    "name": "417 Hz — Transmutation & changement",
+    "category": "SOLFEGGIO",
+    "frequencies": [417],
+    "tradition": "Fréquences de Solfeggio — tradition grégorienne ésotérique",
+    "intentions": ["trauma", "énergie négative", "changement", "purification lieu"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "chakra": "Sacré",
+    "color": "#ea580c"
+  },
+  {
+    "id": "solf_432",
+    "name": "432 Hz — Accordage cosmique",
+    "category": "SOLFEGGIO",
+    "frequencies": [432],
+    "tradition": "Théorie de l'accordage naturel — alternative au standard 440 Hz",
+    "intentions": ["harmonie universelle", "pulsation terrestre", "équilibre eau corporelle"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "chakra": "Sacré",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "solf_528",
+    "name": "528 Hz — Fréquence des Miracles",
+    "category": "SOLFEGGIO",
+    "frequencies": [528],
+    "tradition": "Dr. Leonard Horowitz — 'Healing Codes for the Biological Apocalypse', 1999",
+    "intentions": ["réparation ADN", "ouverture cœur", "transformation", "miracles"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "chakra": "Plexus solaire",
+    "color": "#65a30d"
+  },
+  {
+    "id": "solf_639",
+    "name": "639 Hz — Reconnexion relationnelle",
+    "category": "SOLFEGGIO",
+    "frequencies": [639],
+    "tradition": "Fréquences de Solfeggio — tradition grégorienne ésotérique",
+    "intentions": ["communication", "empathie", "conflits", "amour", "relations"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "chakra": "Cœur",
+    "color": "#16a34a"
+  },
+  {
+    "id": "solf_741",
+    "name": "741 Hz — Éveil & purification",
+    "category": "SOLFEGGIO",
+    "frequencies": [741],
+    "tradition": "Fréquences de Solfeggio — tradition grégorienne ésotérique",
+    "intentions": ["intuition", "purification toxines", "ondes nocives", "expression"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "chakra": "Gorge",
+    "color": "#0284c7"
+  },
+  {
+    "id": "solf_852",
+    "name": "852 Hz — Retour à l'ordre spirituel",
+    "category": "SOLFEGGIO",
+    "frequencies": [852],
+    "tradition": "Fréquences de Solfeggio — tradition grégorienne ésotérique",
+    "intentions": ["vérité", "illusions", "moi supérieur", "clairvoyance"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "chakra": "Troisième œil",
+    "color": "#4f46e5"
+  },
+  {
+    "id": "solf_963",
+    "name": "963 Hz — Fréquence de Dieu",
+    "category": "SOLFEGGIO",
+    "frequencies": [963],
+    "tradition": "Fréquences de Solfeggio — tradition grégorienne ésotérique",
+    "intentions": ["glande pinéale", "connexion divine", "conscience pure", "lévitation spirituelle"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "chakra": "Couronne",
+    "color": "#7c3aed"
+  }
+]

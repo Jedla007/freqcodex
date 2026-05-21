@@ -1,0 +1,84 @@
+[
+  {
+    "id": "bw_epsilon",
+    "name": "Epsilon — Samadhi / Mort apparente",
+    "category": "BRAINWAVE",
+    "frequencies": [0.5],
+    "tradition": "Neurosciences + Institut Monroe (recherche OBE)",
+    "intentions": ["transe profonde", "détachement corporel", "hibernation yogi", "samadhi"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 200, "delta": 0.5 },
+    "warning": "Casque stéréo obligatoire. Fréquence non audible directement — battement binaural activé automatiquement."
+  },
+  {
+    "id": "bw_delta",
+    "name": "Delta (1–4 Hz) — Sommeil profond / Régénération",
+    "category": "BRAINWAVE",
+    "frequencies": [2],
+    "tradition": "Neurosciences — stade 3-4 du sommeil (ondes lentes)",
+    "intentions": ["sommeil profond", "régénération", "guérison", "inconscient"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 200, "delta": 2 },
+    "warning": "Casque stéréo obligatoire."
+  },
+  {
+    "id": "bw_theta",
+    "name": "Thêta (4–7 Hz) — Méditation profonde / Transe",
+    "category": "BRAINWAVE",
+    "frequencies": [6],
+    "tradition": "Neurosciences + traditions chamanique et taoïste (Zuowang)",
+    "intentions": ["méditation", "transe", "créativité", "voyage astral", "projection"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 200, "delta": 6 },
+    "warning": "Casque stéréo obligatoire."
+  },
+  {
+    "id": "bw_alpha",
+    "name": "Alpha (8–12 Hz) — Relaxation / Visualisation",
+    "category": "BRAINWAVE",
+    "frequencies": [10],
+    "tradition": "Neurosciences — état de relaxation éveillée",
+    "intentions": ["relaxation", "visualisation", "ancrage", "méditation légère", "anti-stress"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 200, "delta": 10 },
+    "warning": "Casque stéréo recommandé."
+  },
+  {
+    "id": "bw_beta",
+    "name": "Beta (12–30 Hz) — Concentration / Éveil",
+    "category": "BRAINWAVE",
+    "frequencies": [20],
+    "tradition": "Neurosciences — état de veille active normale",
+    "intentions": ["concentration", "focus", "productivité", "éveil mental"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 200, "delta": 20 }
+  },
+  {
+    "id": "bw_gamma",
+    "name": "Gamma (30–100 Hz) — Hyper-concentration / Fa Jin",
+    "category": "BRAINWAVE",
+    "frequencies": [40],
+    "tradition": "Neurosciences + études sur les moines tibétains (compassion)",
+    "intentions": ["hyper-concentration", "plasticité cérébrale", "explosion force", "fa jin kung fu"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 240, "delta": 40 }
+  },
+  {
+    "id": "bw_lambda",
+    "name": "Lambda / Hyper-Gamma (100–200 Hz) — Omniscience",
+    "category": "BRAINWAVE",
+    "frequencies": [100],
+    "tradition": "Études sur moines tibétains (compassion universelle) — Institut Monroe",
+    "intentions": ["dimensions supérieures", "omniscience", "calme absolu", "pont dimensionnel"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 300, "delta": 100 },
+    "warning": "Casque stéréo obligatoire. Fréquence de battement élevée — sensation intense possible."
+  }
+]

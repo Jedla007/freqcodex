@@ -1,0 +1,59 @@
+[
+  {
+    "id": "sch_7_83",
+    "name": "7,83 Hz — Fondamentale de Schumann",
+    "category": "SCHUMANN",
+    "frequencies": [7.83],
+    "tradition": "W.O. Schumann, 1952 — résonance électromagnétique cavité Terre-ionosphère",
+    "intentions": ["ancrage", "synchronisation hémisphères", "jet lag", "protection EMF", "guérison"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 200, "delta": 7.83 },
+    "warning": "Casque stéréo obligatoire — battement binaural activé."
+  },
+  {
+    "id": "sch_14_3",
+    "name": "14,3 Hz — 1ère harmonique Schumann",
+    "category": "SCHUMANN",
+    "frequencies": [14.3],
+    "tradition": "Résonances de Schumann — 1ère harmonique",
+    "intentions": ["concentration", "cognition", "mémoire de travail", "veille active"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 200, "delta": 14.3 },
+    "warning": "Casque stéréo recommandé."
+  },
+  {
+    "id": "sch_20_8",
+    "name": "20,8 Hz — 2ème harmonique Schumann",
+    "category": "SCHUMANN",
+    "frequencies": [20.8],
+    "tradition": "Résonances de Schumann — 2ème harmonique",
+    "intentions": ["conscience élargie", "clairaudience", "perception extrasensorielle"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 220, "delta": 20.8 }
+  },
+  {
+    "id": "sch_27_3",
+    "name": "27,3 Hz — 3ème harmonique Schumann",
+    "category": "SCHUMANN",
+    "frequencies": [27.3],
+    "tradition": "Résonances de Schumann — 3ème harmonique",
+    "intentions": ["états élargis", "cohérence collective", "synchronicité"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 240, "delta": 27.3 }
+  },
+  {
+    "id": "sch_33_8",
+    "name": "33,8 Hz — 4ème harmonique Schumann",
+    "category": "SCHUMANN",
+    "frequencies": [33.8],
+    "tradition": "Résonances de Schumann — 4ème harmonique",
+    "intentions": ["conscience élargie supérieure", "accès akashique", "présence totale"],
+    "waveType": "sine",
+    "playMode": "continuous",
+    "binaural": { "carrier": 260, "delta": 33.8 }
+  }
+]
