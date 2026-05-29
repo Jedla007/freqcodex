@@ -9,7 +9,12 @@
     "waveType": "sine",
     "playMode": "continuous",
     "binaural": { "carrier": 100, "delta": 0.125 },
-    "warning": "Théorie spéculative non prouvée. Casque stéréo obligatoire — battement binaural ultra-lent."
+    "warning": "Théorie spéculative non prouvée. Casque stéréo obligatoire — battement binaural ultra-lent.",
+    "color": "#6366f1",
+    "description": "La fréquence de 0,125 Hz appartient au domaine le plus spéculatif de ce compendium. Certains théoriciens de l'énergie libre, s'inspirant librement des travaux de Nikola Tesla sur la résonance telluro-ionosphérique, ont proposé que des sous-harmoniques extrêmement lentes pourraient interagir avec les champs gravitationnels terrestres. La valeur 0,125 Hz correspond précisément à 1/8e de Hz, une fraction jugée 'harmoniquement pure' dans certains modèles de physique alternative. Aucune démonstration physique sérieuse n'existe à ce jour, et les lois connues de la physique ne soutiennent pas cette hypothèse. L'usage de ce battement binaural reste purement expérimental et introspectif — certains méditants rapportent des sensations de 'pesanteur dissoute' ou de flottement corporel, vraisemblablement d'origine perceptive.",
+    "duration": "30–60 minutes",
+    "usageFrequency": "Usage exploratoire occasionnel",
+    "contraindications": "Casque stéréo obligatoire (battement binaural ultra-lent). Épilepsie : contre-indiqué. Ne pas utiliser en conduisant."
   },
   {
     "id": "spec_ego_vaporization",
@@ -19,7 +24,12 @@
     "tradition": "Machines à ondes russes — recherches sur états de conscience altérés",
     "intentions": ["lucidité", "rêve lucide", "voyage hors du corps", "dissolution égo"],
     "waveType": "sine",
-    "playMode": "continuous"
+    "playMode": "continuous",
+    "color": "#8b5cf6",
+    "description": "La fréquence de 40 Hz est utilisée ici dans un cadre radicalement différent de son application neuroscientifique validée : au lieu du travail cognitif Gamma, certains praticiens russes et de l'Europe de l'Est du milieu du XXe siècle auraient développé des 'machines à ondes cérébrales' ciblant 40 Hz pour induire des états de conscience altérés profonds — dissociation de l'ego, sentiment de voyage hors du corps, lucidité onirique. La particularité de cette approche spéculative est l'application en continu sur des durées prolongées (vs. 20 minutes pour l'usage neuroscientifique). Des témoignages de praticiens en psychonautique décrivent une dissolution progressive du sens de l'identité personnelle ('vaporisation de l'ego') lors d'expositions longues à 40 Hz dans l'obscurité totale. Ces effets restent anecdotiques et sans base scientifique établie.",
+    "duration": "45–90 minutes",
+    "usageFrequency": "Usage exploratoire rare, pratiquants expérimentés uniquement",
+    "contraindications": "Épilepsie : strictement contre-indiqué. Troubles dissociatifs : déconseillé. Ne jamais utiliser en conduisant. Accompagnement recommandé."
   },
   {
     "id": "spec_holy_111",
@@ -29,7 +39,12 @@
     "tradition": "Analyse acoustique temples néolithiques (Hypogée de Hal Saflieni, Malte) — Dr. Ian Cook, UCLA",
     "intentions": ["transe chamanique", "désactivation cortex préfrontal gauche", "états altérés"],
     "waveType": "sine",
-    "playMode": "continuous"
+    "playMode": "continuous",
+    "color": "#a78bfa",
+    "description": "La fréquence de 111 Hz est l'une des plus fascinantes de ce compendium car elle repose partiellement sur des données archéoacoustiques réelles. Le Dr. Ian Cook de l'UCLA a étudié les propriétés acoustiques de l'Hypogée de Hal Saflieni (Malte, 3600–2500 av. J.-C.), l'un des plus anciens lieux de culte souterrains de l'humanité. Ses mesures ont révélé que la chambre principale résonne naturellement autour de 111 Hz — une fréquence que les constructeurs néolithiques auraient peut-être intentionnellement intégrée à l'architecture. Selon les interprétations spéculatives, l'exposition à 111 Hz provoquerait une désactivation partielle du cortex préfrontal gauche (siège de l'analyse logique), favorisant des états de transe chamanique, une réceptivité accrue aux visions, et une suspension temporaire du dialogue intérieur analytique. Certaines études EEG informelles ont relevé un glissement vers les ondes Thêta lors de l'exposition prolongée à cette fréquence.",
+    "duration": "20–40 minutes",
+    "usageFrequency": "2–3×/semaine, en méditation ou exploration chamanique",
+    "contraindications": "Aucune formellement documentée. Peut induire des états de conscience altérés — cadre sécurisé recommandé."
   },
   {
     "id": "spec_keely_water",
@@ -40,7 +55,12 @@
     "intentions": ["désintégration eau", "force intermoléculaire", "énergie keelienne", "lévitation objets lourds"],
     "waveType": "sine",
     "playMode": "continuous",
-    "warning": "Fréquence très élevée (42,8 kHz). Théorie du XIXe siècle, jamais reproduite en laboratoire."
+    "warning": "Fréquence très élevée (42,8 kHz). Théorie du XIXe siècle, jamais reproduite en laboratoire.",
+    "color": "#7c3aed",
+    "description": "John Ernst Worrell Keely (1837–1898) est l'une des figures les plus controversées de l'histoire des 'sciences alternatives'. Ingénieur autodidacte de Philadelphie, il prétendait avoir découvert une 'force sympathique vibratoire' capable de désintégrer les molécules d'eau pour libérer une énergie considérable, et aurait réalisé des démonstrations publiques de lévitation d'objets métalliques lourds. Ses détracteurs — nombreux dès son époque — ont démontré après sa mort que ses appareils contenaient des réservoirs d'air comprimé cachés dans ses murs et planchers. La fréquence de 42 800 Hz qu'il mentionnait dans ses écrits hermétiques est une fréquence ultrasonique, non perceptible par l'oreille humaine. Son inclusion ici est d'ordre historique et documentaire : elle représente l'une des premières tentatives de codification d'un 'langage vibratoire' universel, et a influencé toute une génération de penseurs de l'énergie libre.",
+    "duration": "Usage documentaire uniquement",
+    "usageFrequency": "Non recommandé pour usage thérapeutique ou méditatif",
+    "contraindications": "Fréquence ultrasonique (42,8 kHz) — non audible et potentiellement dommageable à fort volume. Usage expérimental uniquement."
   },
   {
     "id": "spec_quartz_activation",
@@ -51,7 +71,12 @@
     "intentions": ["activation cristaux", "amplification pensée", "télékinésie", "canal pyramidal"],
     "waveType": "sine",
     "playMode": "continuous",
-    "warning": "Fréquence ultrasonique (32 kHz). Non perceptible par l'oreille humaine — usage expérimental uniquement."
+    "warning": "Fréquence ultrasonique (32 kHz). Non perceptible par l'oreille humaine — usage expérimental uniquement.",
+    "color": "#60a5fa",
+    "description": "La valeur de 32 768 Hz (soit 2^15 Hz) est la fréquence d'oscillation standard des cristaux de quartz utilisés dans les montres, horloges et pratiquement tous les appareils électroniques modernes. Dans les traditions ésotériques cristallines, des praticiens ont proposé que l'exposition à cette fréquence précise permettrait 'd'activer' la mémoire vibratoire des cristaux de quartz naturels, d'amplifier les intentions mentales, et de créer des 'canaux pyramidaux' entre conscience humaine et réseau cristallin terrestre. Cette réinterprétation de la technologie horlogère dans un cadre ésotérique est typique du XXe siècle — époque où les frontières entre physique quantique, cristallographie et métaphysique ont été brouillées dans la littérature New Age. Aucune démonstration scientifique de ces effets n'existe.",
+    "duration": "Usage expérimental — durée libre",
+    "usageFrequency": "Usage exploratoire cristallin",
+    "contraindications": "Fréquence ultrasonique non perceptible. Possible inconfort auditif à fort volume. Non recommandé au-delà de niveaux sonores modérés."
   },
   {
     "id": "spec_golden_ratio",
@@ -61,7 +86,12 @@
     "tradition": "Architecture sacrée — transposition du Nombre d'Or (1,618) en fréquence par multiplication harmonique",
     "intentions": ["proportion divine", "chaos électromagnétique", "régénération accélérée", "géométrie sacrée"],
     "waveType": "sine",
-    "playMode": "continuous"
+    "playMode": "continuous",
+    "color": "#f59e0b",
+    "description": "Le Nombre d'Or Φ (phi ≈ 1,618) est la proportion mathématique qui gouverne la croissance en spirale dans la nature — coquilles de nautile, phyllotaxie des tournesols, proportions du corps humain décrites par Léonard de Vinci dans l'Homme de Vitruve. Certains théoriciens de la géométrie sacrée ont proposé de transposer phi directement en fréquence : 1 Hz × 1,618 × octaves successives donne 161,8 Hz. L'idée est que cette fréquence, étant en correspondance directe avec la proportion universelle de croissance, induirait une 'résonance morphique' favorisant la régénération cellulaire, la cohérence électromagnétique et un alignement avec les patterns naturels. Des témoignages de méditants décrivent une sensation particulière de 'justesse' ou d'équilibre naturel lors de l'écoute prolongée. Sa base mathématique réelle (le nombre Φ) la distingue des fréquences purement arbitraires, même si les effets thérapeutiques revendiqués restent non prouvés.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "3×/semaine, en méditation sur la géométrie sacrée",
+    "contraindications": "Aucune connue."
   },
   {
     "id": "spec_calligaris_ancestral",
@@ -72,7 +102,12 @@
     "intentions": ["mémoire ancestrale", "vies antérieures", "souvenirs génétiques"],
     "waveType": "sine",
     "playMode": "continuous",
-    "binaural": { "carrier": 200, "delta": 18.5 }
+    "binaural": { "carrier": 200, "delta": 18.5 },
+    "color": "#ec4899",
+    "description": "Le Dr. Giuseppe Calligaris (1876–1944), neuropsychiatre triestien, a développé une cartographie du corps humain radicalement alternative dans ses travaux des années 1920–1930. Il proposait que certaines zones cutanées, stimulées par des fréquences spécifiques, déclenchaient l'accès à des mémoires encodées dans les cellules — y compris des souvenirs transgénérationnels ou des 'mémoires de vies antérieures'. La fréquence de 18,5 Hz était spécifiquement associée dans ses écrits à l'activation des 'lignes ancestrales' du corps. Bien que ses théories aient été rejetées par la médecine académique, elles ont influencé des praticiens contemporains de thérapie somatique, d'hypnose régressive et de thérapie transgénérationnelle. Ce battement binaural est utilisé dans ces contextes comme fond vibratoire lors de séances de régression.",
+    "duration": "30–45 minutes",
+    "usageFrequency": "Lors de séances de régression ou exploration de mémoire",
+    "contraindications": "Casque stéréo recommandé. Épilepsie : avis médical préalable. Peut faire émerger des contenus émotionnels anciens — accompagnement recommandé."
   },
   {
     "id": "spec_calligaris_radiesthesia",
@@ -83,7 +118,12 @@
     "intentions": ["radiesthésie", "localisation objets perdus", "sources d'eau", "biomagnétisme"],
     "waveType": "sine",
     "playMode": "continuous",
-    "binaural": { "carrier": 220, "delta": 25.3 }
+    "binaural": { "carrier": 220, "delta": 25.3 },
+    "color": "#f472b6",
+    "description": "Toujours dans le cadre théorique de Giuseppe Calligaris, la fréquence de 25,3 Hz correspondrait à l'activation des 'lignes de radiesthésie mentale' — les zones corporelles qui permettraient selon lui de capter les champs magnétiques environnementaux et de localiser à distance des objets, des sources d'eau ou des personnes. Les praticiens contemporains de radiesthésie moderne utilisent parfois ce battement binaural comme 'sensibilisateur perceptif' avant une séance de travail avec baguette ou pendule, dans l'idée de syntoniser le système nerveux sur les micro-variations du champ géomagnétique. Sa position dans la plage Beta basse (Beta sensitif, 20–30 Hz) lui confère un caractère de vigilance ouverte sans tension analytique — un état que les radiesthésistes décrivent comme optimal pour leur pratique.",
+    "duration": "15–30 minutes",
+    "usageFrequency": "Avant les séances de radiesthésie ou de perception extrasensorielle",
+    "contraindications": "Casque stéréo recommandé. Épilepsie : avis médical préalable."
   },
   {
     "id": "spec_depression_elf",
@@ -95,7 +135,12 @@
     "waveType": "sine",
     "playMode": "continuous",
     "binaural": { "carrier": 200, "delta": 6.66 },
-    "warning": "Usage strictement éducatif et d'étude. Théorie complotiste — aucune preuve scientifique de cet effet."
+    "warning": "Usage strictement éducatif et d'étude. Théorie complotiste — aucune preuve scientifique de cet effet.",
+    "color": "#64748b",
+    "description": "Cette entrée documente une théorie de la 'guerre psychotronique' qui circule dans certains milieux conspirationnistes depuis les années 1970. L'hypothèse centrale est que des gouvernements (soviétique, américain) auraient développé des émetteurs ELF (Extremely Low Frequency, < 30 Hz) capables de diffuser des fréquences ciblant le cerveau humain à l'échelle d'une population. La valeur de 6,66 Hz — délibérément choisie pour sa valeur symbolique — est citée dans ces théories comme 'fréquence d'induction de la dépression et de la désorientation'. Il est important de souligner que les émetteurs ELF militaires réels (Project ELF de la Marine américaine) étaient utilisés pour la communication avec les sous-marins en plongée, et non pour la manipulation de masse. La physique rend extrêmement improbable toute influence ELF ciblée sur le cerveau humain à distance. Cette entrée est incluse à des fins documentaires et éducatives.",
+    "duration": "Usage strictement éducatif",
+    "usageFrequency": "Non recommandé pour usage régulier",
+    "contraindications": "Casque stéréo obligatoire. Épilepsie : contre-indiqué. Cette fréquence ne doit pas être utilisée avec l'intention d'induire des états dépressifs."
   },
   {
     "id": "spec_kymatic_ether",
@@ -105,7 +150,12 @@
     "tradition": "Hans Jenny — Kymatique (1967) + interprétations ésotériques modernes",
     "intentions": ["structures cristallines", "hexagones", "annulation friction", "géométrie éther"],
     "waveType": "sine",
-    "playMode": "continuous"
+    "playMode": "continuous",
+    "color": "#22d3ee",
+    "description": "La Kymatique est la science des effets visibles du son sur la matière, fondée scientifiquement par Ernest Chladni (XIXe siècle) et développée par Hans Jenny dans son ouvrage 'Cymatics' (1967). Jenny photographiait les patterns géométriques formés par des poudres et liquides sur des plaques vibrantes — des figures remarquablement similaires aux mandalas tibétains, aux symboles géométriques sacrés, et aux structures cellulaires biologiques. La fréquence de 1 050 Hz est citée dans les adaptations ésotériques de ces travaux comme produisant des hexagones parfaits, le motif structural de l'eau, des alvéoles et des cristaux de sel. Les spéculations vont au-delà de la physique démontrable : certains praticiens soutiennent qu'exposer de l'eau à 1 050 Hz avant de la boire modifierait sa 'structure moléculaire' et ses propriétés biologiques — une affirmation sans validation scientifique. La beauté réelle des figures kymatiques n'implique pas les effets thérapeutiques revendiqués.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "3×/semaine, en méditation sur la géométrie",
+    "contraindications": "Aucune connue. Fréquence audible sans danger."
   },
   {
     "id": "spec_rife_universal",
@@ -116,6 +166,11 @@
     "intentions": ["infections bactériennes", "immunité", "nettoyage général"],
     "waveType": "sine",
     "playMode": "sequential",
-    "warning": "Théorie de Rife non validée par la médecine moderne. Usage expérimental uniquement."
+    "warning": "Théorie de Rife non validée par la médecine moderne. Usage expérimental uniquement.",
+    "color": "#34d399",
+    "description": "Ce trio de fréquences — 727, 787 et 880 Hz — est peut-être le plus emblématique de l'héritage controversé de Royal Raymond Rife. Il est décrit dans les compilations CAFL comme une combinaison à 'action générale' contre les agents pathogènes bactériens, et apparaît dans des milliers de protocoles Rife contemporains. La théorie sous-jacente est que chaque micro-organisme possède une 'fréquence de résonance mortelle' (MOR — Mortal Oscillatory Rate) à laquelle il se désintègre, comme un verre sous l'effet d'une note aiguë. Les investigations ultérieures ont montré que les appareils de Rife ne produisaient pas les fréquences annoncées et que ses démonstrations ne respectaient pas les protocoles scientifiques. Ces trois fréquences restent les plus utilisées dans la communauté mondiale des pratiquants Rife — leur persistance après 90 ans témoigne de l'intensité de la conviction dans ce mouvement, indépendamment de toute validation clinique.",
+    "duration": "20–30 minutes (lecture séquentielle des 3 fréquences)",
+    "usageFrequency": "Selon protocole personnel, maximum 1×/jour",
+    "contraindications": "Non substitutif à un traitement médical. En cas d'infection réelle, consulter un médecin. Usage complémentaire uniquement."
   }
 ]

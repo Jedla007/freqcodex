@@ -9,7 +9,12 @@
     "waveType": "sine",
     "playMode": "continuous",
     "binaural": { "carrier": 200, "delta": 0.5 },
-    "warning": "Casque stéréo obligatoire. Fréquence non audible directement — battement binaural activé automatiquement."
+    "warning": "Casque stéréo obligatoire. Fréquence non audible directement — battement binaural activé automatiquement.",
+    "color": "#1e1b4b",
+    "description": "Les ondes Epsilon (< 0,5 Hz) représentent l'état cérébral le plus profond jamais mesuré par EEG. Elles ont été observées chez des yogis en état de samadhi ou de mort apparente volontaire, ainsi que chez des maîtres bouddhistes tibétains en méditation transcendante. Dans cet état, la conscience semble se séparer du corps physique, les fonctions métaboliques ralentissent considérablement, et le pratiquant rapporte souvent une dissolution totale du sentiment d'identité ou des expériences hors du corps. L'Institut Monroe (Hemi-Sync) a documenté des états similaires chez des sujets avancés. Ce battement binaural est réservé aux méditants expérimentés.",
+    "duration": "45–90 minutes",
+    "usageFrequency": "1–2×/semaine, pour pratiquants avancés uniquement",
+    "contraindications": "Réservé aux méditants expérimentés. Déconseillé aux débutants, personnes épileptiques, troubles dissociatifs, ou pendant la conduite. Casque stéréo obligatoire."
   },
   {
     "id": "bw_delta",
@@ -21,7 +26,12 @@
     "waveType": "sine",
     "playMode": "continuous",
     "binaural": { "carrier": 200, "delta": 2 },
-    "warning": "Casque stéréo obligatoire."
+    "warning": "Casque stéréo obligatoire.",
+    "color": "#1e3a5f",
+    "description": "Les ondes Delta (1–4 Hz) sont les ondes cérébrales dominantes pendant le sommeil profond sans rêves (stades 3 et 4). C'est pendant cette phase que le corps libère l'hormone de croissance, consolide la mémoire immunitaire, et répare les tissus endommagés. Des études en neurosciences ont montré que les personnes souffrant de troubles chroniques du sommeil produisent insuffisamment d'ondes Delta. Une exposition régulière aux battements binauraux Delta avant le coucher peut faciliter l'endormissement et améliorer la qualité du sommeil profond. À utiliser allongé, en obscurité totale, casque stéréo indispensable.",
+    "duration": "30–90 minutes (idéalement pendant le sommeil)",
+    "usageFrequency": "Chaque soir pendant 2–4 semaines, puis selon besoin",
+    "contraindications": "Ne pas utiliser en conduisant ou lors d'activités nécessitant attention. Épilepsie : avis médical préalable. Casque stéréo obligatoire."
   },
   {
     "id": "bw_theta",
@@ -33,7 +43,12 @@
     "waveType": "sine",
     "playMode": "continuous",
     "binaural": { "carrier": 200, "delta": 6 },
-    "warning": "Casque stéréo obligatoire."
+    "warning": "Casque stéréo obligatoire.",
+    "color": "#312e81",
+    "description": "Les ondes Thêta (4–7 Hz) correspondent à l'état hypnagogique — cette zone entre veille et sommeil où surgissent images spontanées, insights créatifs et souvenirs émotionnels profonds. C'est l'état naturel des enfants jusqu'à 6 ans, des chamans en transe légère, et des créatifs en flow. Des traditions très diverses visent cet état : le taoïsme (Zuowang), le chamanisme (tambour à 4–7 coups/seconde), et les pratiques tibétaines de rêve lucide. Des études à l'UCLA ont montré des corrélations entre l'état Thêta et l'insight créatif. L'entraînement régulier améliore l'accès conscient à l'inconscient, la créativité et la profondeur médiative.",
+    "duration": "20–45 minutes",
+    "usageFrequency": "3–5×/semaine",
+    "contraindications": "Épilepsie : contre-indiqué. Ne pas utiliser en conduisant. Casque stéréo obligatoire. Peut induire un endormissement profond."
   },
   {
     "id": "bw_alpha",
@@ -45,7 +60,12 @@
     "waveType": "sine",
     "playMode": "continuous",
     "binaural": { "carrier": 200, "delta": 10 },
-    "warning": "Casque stéréo recommandé."
+    "warning": "Casque stéréo recommandé.",
+    "color": "#4338ca",
+    "description": "Les ondes Alpha (8–12 Hz) caractérisent l'état de relaxation éveillée — la fenêtre idéale entre tension et lâcher-prise. On les retrouve naturellement lors d'une promenade en nature, d'une rêverie, ou des premières minutes de méditation. Des études ont montré que l'état Alpha est associé à une réduction du cortisol, une amélioration de l'humeur, et une plus grande fluidité cognitive. C'est l'état recherché dans la cohérence cardiaque, le yoga nidra et la sophrologie. Les ondes Alpha à 10 Hz constituent la fréquence de départ idéale pour tout débutant en méditation ou pour quiconque cherche à diminuer un état de stress chronique.",
+    "duration": "15–30 minutes",
+    "usageFrequency": "Quotidien — particulièrement recommandé après le travail ou avant un effort intellectuel",
+    "contraindications": "Aucune connue pour les Alpha. Casque stéréo recommandé mais pas obligatoire à cette fréquence."
   },
   {
     "id": "bw_beta",
@@ -56,7 +76,12 @@
     "intentions": ["concentration", "focus", "productivité", "éveil mental"],
     "waveType": "sine",
     "playMode": "continuous",
-    "binaural": { "carrier": 200, "delta": 20 }
+    "binaural": { "carrier": 200, "delta": 20 },
+    "color": "#2563eb",
+    "description": "Les ondes Beta (12–30 Hz) sont l'état cérébral normal de la vie quotidienne active — conversation, travail intellectuel, prise de décision. Un stimulus binaural dans la plage Beta modérée (12–20 Hz) peut maintenir une vigilance soutenue lors de tâches exigeantes, aider à sortir d'une somnolence en journée, et améliorer la concentration face à des travaux complexes. Les Beta modérés (12–18 Hz) sont positifs et orientés vers l'action ; les Beta hauts (25–30 Hz) sont associés à l'anxiété et doivent être évités. À réserver exclusivement à l'usage en journée.",
+    "duration": "20–60 minutes",
+    "usageFrequency": "En journée uniquement, selon besoin de concentration",
+    "contraindications": "Ne pas utiliser le soir (peut perturber le sommeil). Éviter si anxiété ou tension nerveuse élevée. Casque stéréo recommandé."
   },
   {
     "id": "bw_gamma",
@@ -67,7 +92,12 @@
     "intentions": ["hyper-concentration", "plasticité cérébrale", "explosion force", "fa jin kung fu"],
     "waveType": "sine",
     "playMode": "continuous",
-    "binaural": { "carrier": 240, "delta": 40 }
+    "binaural": { "carrier": 240, "delta": 40 },
+    "color": "#0284c7",
+    "description": "Les ondes Gamma (30–100 Hz), particulièrement à 40 Hz, représentent l'état de traitement cognitif le plus élevé documenté par les neurosciences modernes. Des études de l'Université du Wisconsin ont montré que des moines tibétains expérimentés en méditation de compassion (Tonglen) produisent des niveaux de Gamma extraordinairement élevés, corrélés à une plasticité cérébrale accrue. En neuroscience clinique, des stimulations à 40 Hz sont actuellement étudiées pour leurs effets potentiels sur la prévention de la maladie d'Alzheimer (études MIT). Les arts martiaux avancés, notamment le Fa Jin du Tai-Chi et du Kung Fu, sont associés à des émissions Gamma intenses lors de la libération soudaine de force.",
+    "duration": "15–20 minutes",
+    "usageFrequency": "Avant des tâches cognitives exigeantes ou entraînements physiques intenses",
+    "contraindications": "Épilepsie : strictement contre-indiqué. Casque stéréo recommandé. Durée limitée — ne pas prolonger au-delà de 30 minutes."
   },
   {
     "id": "bw_lambda",
@@ -79,6 +109,11 @@
     "waveType": "sine",
     "playMode": "continuous",
     "binaural": { "carrier": 300, "delta": 100 },
-    "warning": "Casque stéréo obligatoire. Fréquence de battement élevée — sensation intense possible."
+    "warning": "Casque stéréo obligatoire. Fréquence de battement élevée — sensation intense possible.",
+    "color": "#0e7490",
+    "description": "Les ondes Lambda et Hyper-Gamma (100–200 Hz) constituent la frontière la plus extrême de la recherche en neurosciences de la conscience. Mesurées chez des méditants tibétains d'exception et documentées par l'Institut Monroe, elles seraient associées à des états dits 'omniscients' — une clarté totale et un calme paradoxal malgré une activité cérébrale ultra-élevée. Certains chercheurs suggèrent que ces ondes sont un pont entre la conscience ordinaire et des états de perception radicalement élargie. Le battement binaural à 100 Hz provoque des sensations intenses et inhabituelles — à réserver aux pratiquants expérimentés des états altérés.",
+    "duration": "10–20 minutes maximum",
+    "usageFrequency": "1×/semaine maximum, pour pratiquants confirmés",
+    "contraindications": "Strictement contre-indiqué en cas d'épilepsie. Réservé aux pratiquants expérimentés. Ne jamais utiliser en conduisant. Casque stéréo obligatoire."
   }
 ]

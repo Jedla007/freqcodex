@@ -9,7 +9,12 @@
     "waveType": "sine",
     "playMode": "continuous",
     "binaural": { "carrier": 200, "delta": 7.83 },
-    "warning": "Casque stéréo obligatoire — battement binaural activé."
+    "warning": "Casque stéréo obligatoire — battement binaural activé.",
+    "color": "#15803d",
+    "description": "La résonance de Schumann à 7,83 Hz est la fréquence électromagnétique naturelle de la cavité entre la surface terrestre et l'ionosphère, excitée en permanence par les éclairs (environ 100 par seconde dans le monde). Prédite par le physicien Winfried Schumann en 1952 et mesurée depuis dans des stations du monde entier, elle constitue la base scientifique la plus solide de cette liste. Sa particularité fascinante : 7,83 Hz se situe précisément dans la plage Thêta/Alpha du cerveau humain, ce qui a conduit certains chercheurs en chronobiologie à suggérer une co-évolution entre rythme cérébral humain et pulsation terrestre. Utilisée pour l'ancrage, le traitement du jet lag, et la reconnexion à la 'pulsation de la Terre'.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "Quotidien, matin ou soir",
+    "contraindications": "Casque stéréo obligatoire (battement binaural). Épilepsie : avis médical préalable. Déconseillé pendant la conduite."
   },
   {
     "id": "sch_14_3",
@@ -21,7 +26,12 @@
     "waveType": "sine",
     "playMode": "continuous",
     "binaural": { "carrier": 200, "delta": 14.3 },
-    "warning": "Casque stéréo recommandé."
+    "warning": "Casque stéréo recommandé.",
+    "color": "#16a34a",
+    "description": "La première harmonique de Schumann à 14,3 Hz se situe dans la plage basse des ondes Beta cérébrales, correspondant à un état d'attention douce et de cognition active sans tension. Dans la pratique, cette fréquence est utilisée pour améliorer la concentration et la mémoire de travail tout en maintenant un ancrage terrestre. Sa particularité par rapport aux stimulations Beta synthétiques classiques : elle conserve le caractère 'naturel' de la résonance Schumann, ce que certains praticiens décrivent comme une clarté focalisée sans la tension habituelle des états Beta purs. Idéale pour le travail intellectuel de fond.",
+    "duration": "15–20 minutes",
+    "usageFrequency": "En journée selon besoin de concentration",
+    "contraindications": "Casque stéréo recommandé. Déconseillé le soir. Épilepsie : avis médical préalable."
   },
   {
     "id": "sch_20_8",
@@ -32,7 +42,12 @@
     "intentions": ["conscience élargie", "clairaudience", "perception extrasensorielle"],
     "waveType": "sine",
     "playMode": "continuous",
-    "binaural": { "carrier": 220, "delta": 20.8 }
+    "binaural": { "carrier": 220, "delta": 20.8 },
+    "color": "#4ade80",
+    "description": "La deuxième harmonique de Schumann à 20,8 Hz se situe dans la plage Beta moyenne, zone associée dans certaines traditions de développement psychique aux états de conscience élargie et aux perceptions sensorielles inhabituelles. Des praticiens en développement de l'intuition et de la clairaudience utilisent cette fréquence comme support méditatif pour affiner leur sensibilité perceptive au-delà des cinq sens ordinaires. Son positionnement dans le spectre des harmoniques Schumann lui confère un ancrage terrestre naturel que n'ont pas les stimulations Beta ordinaires.",
+    "duration": "15–20 minutes",
+    "usageFrequency": "2–3×/semaine",
+    "contraindications": "Casque stéréo recommandé. Ne pas utiliser en conduisant. Épilepsie : avis médical préalable."
   },
   {
     "id": "sch_27_3",
@@ -43,7 +58,12 @@
     "intentions": ["états élargis", "cohérence collective", "synchronicité"],
     "waveType": "sine",
     "playMode": "continuous",
-    "binaural": { "carrier": 240, "delta": 27.3 }
+    "binaural": { "carrier": 240, "delta": 27.3 },
+    "color": "#86efac",
+    "description": "La troisième harmonique de Schumann à 27,3 Hz est notable pour une coïncidence frappante : la Lune orbite autour de la Terre en exactement 27,3 jours. Cette correspondance a conduit certains chercheurs en chronobiologie à s'interroger sur des liens entre résonances planétaires et rythmes biologiques. En pratiques de cohérence collective, cette fréquence est utilisée pour amplifier les moments de synchronicité et de résonance entre individus ou groupes. Certains praticiens l'emploient dans des méditations collectives pour créer un champ de conscience partagée.",
+    "duration": "15–20 minutes",
+    "usageFrequency": "Selon besoin, particulièrement lors de pratiques de groupe",
+    "contraindications": "Casque stéréo recommandé. Épilepsie : avis médical préalable."
   },
   {
     "id": "sch_33_8",
@@ -54,6 +74,11 @@
     "intentions": ["conscience élargie supérieure", "accès akashique", "présence totale"],
     "waveType": "sine",
     "playMode": "continuous",
-    "binaural": { "carrier": 260, "delta": 33.8 }
+    "binaural": { "carrier": 260, "delta": 33.8 },
+    "color": "#bbf7d0",
+    "description": "La quatrième harmonique de Schumann à 33,8 Hz se situe dans la plage Gamma basse, zone associée aux états de conscience élargie et d'éveil présent. Dans les traditions qui utilisent les fréquences de Schumann comme échelle vibratoire ascendante, cette fréquence représente le sommet de la gamme terrestre — le point de transition entre la résonance planétaire et le domaine des ondes Gamma pures. Elle est utilisée pour des méditations de présence totale, d'accès aux plans akashiques selon les traditions ésotériques, et pour des états de perception globale où pensée, émotion et sensation fusionnent en une conscience unifiée.",
+    "duration": "15–25 minutes",
+    "usageFrequency": "1–2×/semaine",
+    "contraindications": "Casque stéréo recommandé. Épilepsie : contre-indiqué. Réservé aux pratiquants ayant déjà une expérience des états Gamma."
   }
 ]

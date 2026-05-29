@@ -8,7 +8,11 @@
     "intentions": ["OM", "relaxation profonde", "recentrage âme", "méditation indienne"],
     "waveType": "sine",
     "playMode": "continuous",
-    "color": "#16a34a"
+    "color": "#16a34a",
+    "description": "La fréquence de 136,10 Hz est obtenue en doublant 32 fois la fréquence de l'année terrestre (révolution autour du Soleil). Hans Cousto a identifié qu'elle correspond au Fa# de la tradition musicale indienne — soit le fameux 'Om' ou 'Aum' des traditions hindoues et tibétaines, fondement du chant sacré indien (Nada Yoga) et de la méditation transcendantale. Cette fréquence est l'une des plus utilisées en sonothérapie mondiale : elle est associée à un ancrage profond, une sensation de présence dans le corps, et une connexion à ce que les traditions orientales appellent l'Espace ou la Conscience sans limite. Sa vibration crée une résonance particulière dans la cage thoracique.",
+    "duration": "20–45 minutes",
+    "usageFrequency": "Quotidien, en méditation assise ou en fond sonore",
+    "contraindications": "Aucune connue. Peut induire des états contemplatifs profonds — cadre tranquille recommandé."
   },
   {
     "id": "plan_moon",
@@ -19,7 +23,11 @@
     "intentions": ["énergie sexuelle", "eau corporelle", "psychisme féminin", "cycles"],
     "waveType": "sine",
     "playMode": "continuous",
-    "color": "#94a3b8"
+    "color": "#94a3b8",
+    "description": "La fréquence lunaire à 210,42 Hz est calculée à partir de la période synodique de la Lune (29,53 jours). La Lune gouverne dans toutes les traditions anciennes le monde des émotions, de l'eau corporelle, des cycles biologiques et du principe féminin universel. En sonothérapie, cette fréquence est utilisée pour harmoniser les rythmes intérieurs, travailler sur les émotions refoulées, favoriser la fluidité et la réceptivité émotionnelle, et dans certaines pratiques énergétiques liées à la fertilité et aux cycles menstruels. Elle est particulièrement recommandée lors des pleines et nouvelles lunes, et pour les pratiques de travail sur le principe féminin intérieur (anima dans la psychologie jungienne).",
+    "duration": "20–30 minutes",
+    "usageFrequency": "3×/semaine, ou en synchronisation avec les phases lunaires",
+    "contraindications": "Peut intensifier les états émotionnels. Déconseillé en période de grande instabilité émotionnelle sans accompagnement."
   },
   {
     "id": "plan_sun",
@@ -30,7 +38,11 @@
     "intentions": ["confiance en soi", "force vitale", "chaleur", "charisme", "vitalité"],
     "waveType": "sine",
     "playMode": "continuous",
-    "color": "#f59e0b"
+    "color": "#f59e0b",
+    "description": "La fréquence solaire à 126,22 Hz est dérivée de la rotation du Soleil sur lui-même. En symbolique universelle, le Soleil représente la force vitale, le principe masculin créateur, la conscience diurne, la confiance et le charisme. Cette fréquence est comparée par certains praticiens à la fréquence de l'or — l'élément alchimique associé au Soleil dans toutes les traditions hermétiques. En sonothérapie, elle est utilisée pour renforcer le sentiment d'identité positive, l'estime de soi, la vitalité physique et la force de caractère. Particulièrement recommandée en période de dépression saisonnière ou de manque de confiance.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "3–5×/semaine, de préférence le matin",
+    "contraindications": "Aucune connue. Peut augmenter le niveau d'énergie — déconseillé le soir si tendance à l'insomnie."
   },
   {
     "id": "plan_mercury",
@@ -41,7 +53,11 @@
     "intentions": ["intellect", "communication", "apprentissage rapide", "écriture"],
     "waveType": "sine",
     "playMode": "continuous",
-    "color": "#a3a3a3"
+    "color": "#a3a3a3",
+    "description": "La fréquence de Mercure à 141,27 Hz est dérivée de la période orbitale de la planète la plus rapide du système solaire. Dans les traditions hermétiques et astrologiques, Mercure gouverne l'intellect, la communication, le commerce et l'apprentissage rapide — le dieu des messagers, des voyageurs et des alchimistes. En sonothérapie, cette fréquence est utilisée pour affiner la pensée analytique, améliorer la fluidité verbale et écrite, et stimuler l'agilité mentale. Elle est recommandée lors de périodes d'études intensives, avant des exposés importants, ou dans des pratiques d'apprentissage accéléré de langues ou de nouvelles compétences.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "En journée, avant ou pendant les activités intellectuelles",
+    "contraindications": "Peut accentuer l'agitation mentale chez les personnes déjà en surcharge cognitive. Pause recommandée si la pensée devient trop rapide."
   },
   {
     "id": "plan_venus",
@@ -52,7 +68,11 @@
     "intentions": ["amour", "beauté", "sensibilité artistique", "harmonie", "création"],
     "waveType": "sine",
     "playMode": "continuous",
-    "color": "#f472b6"
+    "color": "#f472b6",
+    "description": "La fréquence de Vénus à 221,23 Hz est calculée à partir de la période orbitale de la deuxième planète du système solaire. Vénus gouverne dans toutes les traditions astrologiques l'amour, la beauté, l'harmonie, la sensualité et la création artistique. C'est l'une des fréquences planétaires les plus appréciées en sonothérapie : elle est utilisée pour ouvrir le cœur à l'amour sous toutes ses formes, stimuler la créativité artistique, harmoniser les relations de couple, et développer le sens esthétique. Elle est aussi utilisée dans les pratiques de guérison émotionnelle liée à des blessures d'amour et dans les rituels d'attraction de relations harmonieuses.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "3×/semaine ou quotidien",
+    "contraindications": "Peut intensifier le désir de connexion affective. Peu recommandé en période de deuil amoureux non traité."
   },
   {
     "id": "plan_mars",
@@ -63,7 +83,11 @@
     "intentions": ["courage", "volonté", "action", "énergie physique", "agressivité positive", "arts martiaux"],
     "waveType": "sine",
     "playMode": "continuous",
-    "color": "#ef4444"
+    "color": "#ef4444",
+    "description": "La fréquence de Mars à 144,72 Hz est dérivée de la période orbitale de la planète rouge. Mars incarne dans toutes les traditions l'énergie de l'action, du courage, de la volonté et de la force physique — la puissance d'agir dans le monde. En sonothérapie et dans les arts martiaux, cette fréquence est utilisée avant les entraînements intenses, les compétitions sportives, ou toute situation exigeant courage et initiative. Elle est particulièrement populaire dans les pratiques de Qi Gong, de Kung Fu et d'arts de combat où elle est utilisée pour éveiller et diriger l'énergie vitale (qi/ki). Elle active le chakra racine dans sa dimension yang de puissance d'action.",
+    "duration": "10–20 minutes avant une activité physique",
+    "usageFrequency": "Selon les séances d'entraînement ou les besoins d'énergie",
+    "contraindications": "Peut augmenter l'agressivité. Déconseillé en état de colère ou de tension conflictuelle. Pas recommandé le soir."
   },
   {
     "id": "plan_jupiter",
@@ -74,7 +98,11 @@
     "intentions": ["chance", "expansion", "générosité", "optimisme", "spiritualité"],
     "waveType": "sine",
     "playMode": "continuous",
-    "color": "#f97316"
+    "color": "#f97316",
+    "description": "La fréquence de Jupiter à 183,58 Hz est calculée à partir de la plus grande planète du système solaire. Jupiter symbolise dans l'astrologie universelle l'expansion, la sagesse, l'abondance, la chance et la générosité d'esprit. C'est une fréquence 'jupitérienne' par excellence : ample, bienveillante et expansive. En sonothérapie, elle est utilisée pour cultiver l'optimisme, dissoudre les pensées de limitation et de manque, et développer le sens philosophique et la sagesse pratique. Elle est souvent employée dans les pratiques de visualisation positive, de manifestation d'objectifs, et pour stimuler une foi profonde dans la vie.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "3×/semaine",
+    "contraindications": "Peut amplifier une tendance à l'excès ou à l'optimisme démesuré. Usage équilibré recommandé."
   },
   {
     "id": "plan_saturn",
@@ -85,6 +113,10 @@
     "intentions": ["discipline", "karma", "structure", "persévérance", "maîtrise"],
     "waveType": "sine",
     "playMode": "continuous",
-    "color": "#78716c"
+    "color": "#78716c",
+    "description": "La fréquence de Saturne à 147,85 Hz est dérivée de la période orbitale de la planète aux anneaux. Saturne représente dans les traditions astrologiques et alchimiques le principe de structure, de discipline, de karma et de maîtrise par l'effort et le temps. C'est une fréquence sérieuse et puissante — moins séduisante que Vénus ou Jupiter, mais profondément efficace pour les travaux qui demandent persévérance, ancrage dans la durée, et honnêteté avec soi-même. Elle est utilisée pour renforcer la discipline personnelle, travailler avec les répétitions karmiques et les schémas de vie, et développer l'autorité intérieure qui ne dépend pas de la validation extérieure.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "2–3×/semaine, idéalement en fin de journée pour le bilan",
+    "contraindications": "Peut amplifier les pensées mélancoliques ou les sentiments de responsabilité écrasante. Déconseillé en état dépressif sans accompagnement."
   }
 ]

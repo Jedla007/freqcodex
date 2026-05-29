@@ -7,7 +7,12 @@
     "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
     "intentions": ["arthrite", "articulations", "douleur articulaire", "inflammation"],
     "waveType": "sine",
-    "playMode": "sequential"
+    "playMode": "sequential",
+    "color": "#fb923c",
+    "description": "Ce protocole CAFL pour l'arthrite générale combine six fréquences en lecture séquentielle, selon la méthode Rife classique. Les fréquences hautes (10 000 et 3 000 Hz) cibleraient les agents pathogènes potentiellement associés à l'inflammation articulaire, tandis que les fréquences moyennes (880, 787, 727 Hz) — le fameux trio universel Rife — agiraient sur les bactéries en général. La fréquence basse de 20 Hz, proche du seuil d'audition humain, est traditionnellement utilisée dans les protocoles Rife pour ses supposées propriétés de 'nettoyage des résidus'. Dans la communauté Rife mondiale, ce protocole est l'un des plus utilisés pour les douleurs articulaires chroniques de type arthrite dégénérative, rhumatisme et arthrose légère. Il est important de préciser qu'aucune étude clinique contrôlée n'a validé ces effets.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "1×/jour en phase aiguë, 3×/semaine en entretien",
+    "contraindications": "Non substitutif à un traitement médical. Consulter un rhumatologue pour tout diagnostic d'arthrite. Usage complémentaire uniquement."
   },
   {
     "id": "rife_arthritis_rheumatoid_1",
@@ -17,7 +22,12 @@
     "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
     "intentions": ["polyarthrite", "rhumatisme", "auto-immune", "articulations"],
     "waveType": "sine",
-    "playMode": "sequential"
+    "playMode": "sequential",
+    "color": "#f97316",
+    "description": "Le protocole CAFL pour la polyarthrite rhumatoïde est l'un des plus complets de la liste, avec dix fréquences en lecture séquentielle. La complexité du protocole reflète la nature auto-immune de cette pathologie — contrairement à l'arthrite générale, la polyarthrite rhumatoïde est une maladie systémique où le système immunitaire attaque les membranes synoviales. Les fréquences supplémentaires par rapport au protocole général (1 600, 776, 660, 465 Hz) cibleraient selon la tradition CAFL des agents pathogènes potentiellement déclencheurs de la réponse auto-immune : certaines bactéries comme Proteus mirabilis ou Mycoplasma ont été étudiés scientifiquement comme facteurs déclenchants possibles de la PAR, ce qui donne à ce protocole une cohérence partielle avec des hypothèses médicales réelles, même si le mécanisme Rife reste non prouvé.",
+    "duration": "30–40 minutes",
+    "usageFrequency": "1×/jour en phase active, 3×/semaine en maintenance",
+    "contraindications": "La polyarthrite rhumatoïde est une maladie sérieuse nécessitant un suivi médical strict. Usage strictement complémentaire, jamais en remplacement du traitement immunosuppresseur prescrit."
   },
   {
     "id": "rife_cancer_carcinoma_2",
@@ -28,7 +38,12 @@
     "intentions": ["carcinome", "cellules cancéreuses", "tumeur"],
     "waveType": "sine",
     "playMode": "sequential",
-    "warning": "Usage expérimental strictement non médical. Jamais prouvé cliniquement."
+    "warning": "Usage expérimental strictement non médical. Jamais prouvé cliniquement.",
+    "color": "#ef4444",
+    "description": "Cette entrée documente les fréquences MOR (Mortal Oscillatory Rate) que Royal Raymond Rife prétendait avoir identifiées pour les carcinomes dans les années 1930. La fréquence de 11 780 000 Hz (11,78 MHz) est la valeur la plus haute de tout ce compendium — une fréquence radioélectrique bien au-delà de l'audible, que les appareils Rife originaux auraient été censés produire par modulation. Il est essentiel d'être absolument clair : aucune étude scientifique rigoureuse n'a jamais reproduit les résultats de Rife sur le cancer, et toute promesse de traitement du cancer par des fréquences sonores constitue une mise en danger grave des patients. Cette entrée est incluse pour documenter l'histoire de la thérapie par fréquences et la pensée de Rife, non pour suggérer une quelconque efficacité thérapeutique contre le cancer.",
+    "duration": "Usage documentaire — non recommandé en pratique",
+    "usageFrequency": "Non recommandé",
+    "contraindications": "AVERTISSEMENT MÉDICAL SÉRIEUX : Le cancer nécessite un traitement médical immédiat. Ne jamais retarder ou remplacer un traitement oncologique par des fréquences sonores. Ces entrées sont purement documentaires."
   },
   {
     "id": "rife_cancer_sarcoma_3",
@@ -39,7 +54,12 @@
     "intentions": ["sarcome", "tissu conjonctif", "tumeur"],
     "waveType": "sine",
     "playMode": "sequential",
-    "warning": "Usage expérimental strictement non médical."
+    "warning": "Usage expérimental strictement non médical.",
+    "color": "#dc2626",
+    "description": "Les fréquences MOR pour le sarcome (tumeur des tissus conjonctifs) publiées par Rife se concentrent autour de la plage 2 000–2 130 Hz. Cette cohérence dans la gamme 2 kHz pour les tumeurs était présentée par Rife comme une signature vibratoire spécifique des cellules cancéreuses. Les travaux actuels en bioacoustique et en ultrasons thérapeutiques (HIFU — High Intensity Focused Ultrasound) montrent effectivement que des ultrasons de haute intensité peuvent détruire des cellules tumorales, mais à des fréquences de l'ordre du MHz et à des intensités bien supérieures, avec guidage par imagerie médicale — sans rapport avec les fréquences audio Rife. La confusion entre ces deux domaines est fréquente et dangereuse. Cette entrée est incluse à titre documentaire et comparatif.",
+    "duration": "Usage documentaire uniquement",
+    "usageFrequency": "Non recommandé",
+    "contraindications": "AVERTISSEMENT MÉDICAL SÉRIEUX : Consulter immédiatement un oncologue pour tout diagnostic ou suspicion de sarcome. Usage purement documentaire."
   },
   {
     "id": "rife_bacteria_general_4",
@@ -49,7 +69,12 @@
     "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
     "intentions": ["bactéries", "infection", "antibactérien"],
     "waveType": "sine",
-    "playMode": "sequential"
+    "playMode": "sequential",
+    "color": "#84cc16",
+    "description": "Ce protocole est la version la plus courte et générale de l'action antibactérienne selon la tradition CAFL. Le trio central 727–787–880 Hz, complété par 5 000 Hz, représente la combinaison de base utilisée dans des milliers de témoignages de praticiens Rife à travers le monde depuis les années 1980. Dans la logique CAFL, les bactéries — bien que différentes d'une espèce à l'autre — partageraient des 'fréquences de classe' qui permettraient une action générale. À noter que la recherche en bioacoustique a effectivement documenté que certaines bactéries réagissent à des stimulations acoustiques, mais les mécanismes et les niveaux d'intensité requis sont sans commune mesure avec la diffusion audio ordinaire. Usage complémentaire à une prise en charge médicale.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "1–2×/jour en phase infectieuse, 3×/semaine en prévention",
+    "contraindications": "Toute infection bactérienne sérieuse nécessite un diagnostic et un traitement antibiotique médical. Ne jamais retarder une consultation médicale."
   },
   {
     "id": "rife_virus_general_5",
@@ -59,7 +84,12 @@
     "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
     "intentions": ["virus", "antiviral", "immunité"],
     "waveType": "sine",
-    "playMode": "sequential"
+    "playMode": "sequential",
+    "color": "#22c55e",
+    "description": "Le protocole antiviral général de la CAFL se distingue du protocole antibactérien par sa plage de fréquences légèrement différente — notamment l'inclusion de 465 Hz en première position. Dans la tradition Rife, les virus auraient des signatures vibratoires distinctes des bactéries, justifiant des protocoles adaptés. La fréquence de 465 Hz apparaît régulièrement dans les protocoles viraux de la CAFL et est considérée par les praticiens comme particulièrement active sur les agents viraux. Certains praticiens modernes ont ajouté des fréquences spécifiques pour différents virus (grippe, herpès, etc.) à cette base générale. L'usage de ce protocole est devenu extrêmement populaire dans les communautés Rife lors des épidémies, sans que son efficacité ne soit validée.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "1–2×/jour en phase virémique, 3×/semaine en prévention",
+    "contraindications": "En cas d'infection virale sérieuse, consulter un médecin. Usage complémentaire uniquement."
   },
   {
     "id": "rife_fatigue_chronic_6",
@@ -69,7 +99,12 @@
     "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
     "intentions": ["fatigue chronique", "épuisement", "énergie", "vitalité"],
     "waveType": "sine",
-    "playMode": "sequential"
+    "playMode": "sequential",
+    "color": "#facc15",
+    "description": "Le syndrome de fatigue chronique (SFC ou ME/CFS) est l'une des pathologies pour lesquelles la communauté Rife a développé des protocoles parmi les plus utilisés. L'étiologie complexe et encore mal comprise de cette condition — qui implique des dysfonctions neuro-immunitaires, mitochondriales et potentiellement virales (notamment le virus Epstein-Barr) — la rend particulièrement 'attractive' pour les approches alternatives. Ce protocole CAFL couvre un large spectre de 20 à 1 550 Hz, ciblant selon ses défenseurs plusieurs agents possibles associés à la fatigue chronique. La popularité de ce protocole dans la communauté reflète aussi la frustration de nombreux patients dont la condition est mal prise en charge par la médecine conventionnelle.",
+    "duration": "30–45 minutes",
+    "usageFrequency": "1×/jour en phase active, 3–4×/semaine en entretien",
+    "contraindications": "Le SFC est une condition médicale sérieuse. Suivi médical recommandé. Usage complémentaire uniquement."
   },
   {
     "id": "rife_depression_7",
@@ -79,7 +114,12 @@
     "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
     "intentions": ["dépression", "humeur", "moral", "anxiété"],
     "waveType": "sine",
-    "playMode": "sequential"
+    "playMode": "sequential",
+    "color": "#818cf8",
+    "description": "Ce protocole CAFL pour la dépression est l'un des plus courts de la liste — quatre fréquences seulement, dont deux extrêmes (10 000 et 20 Hz) et une intermédiaire (728 Hz, proche du trio universel). L'approche Rife de la dépression repose sur l'hypothèse que certains états dépressifs auraient une composante infectieuse — bactéries ou virus affectant le système nerveux central et l'axe microbiote-intestin-cerveau. Des recherches scientifiques récentes explorent effectivement les liens entre inflammation, microbiome et dépression, ce qui donne une cohérence partielle — mais indirecte — à l'idée d'un traitement à composante antimicrobienne. Ce protocole est souvent utilisé en complément d'autres approches (thérapie lumineuse, exercice, méditation, suivi psychologique) dans les communautés de bien-être intégratif.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "1×/jour, de préférence le matin",
+    "contraindications": "La dépression est une maladie sérieuse. Ne jamais arrêter un traitement antidépresseur sans avis médical. Usage complémentaire à un suivi psychiatrique ou psychologique."
   },
   {
     "id": "rife_insomnia_8",
@@ -89,7 +129,12 @@
     "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
     "intentions": ["insomnie", "sommeil", "relaxation", "endormissement"],
     "waveType": "sine",
-    "playMode": "sequential"
+    "playMode": "sequential",
+    "color": "#6366f1",
+    "description": "Le protocole CAFL pour l'insomnie est remarquablement éclectique : il réunit des fréquences issues de traditions très différentes en une seule séquence. Les fréquences 3 Hz (Delta profond) et 6 Hz (Thêta) appartiennent au domaine des ondes cérébrales de sommeil. La fréquence 10 Hz est le standard Alpha de relaxation éveillée. La valeur 40 Hz (Gamma) est atypique dans un protocole de sommeil — certains praticiens la justifient comme 'nettoyage final' avant descente vers le sommeil. Les fréquences 111 Hz et 432 Hz sont des emprunts aux traditions ésotériques et Solfeggio. Cette diversité illustre comment la CAFL a absorbé des influences de multiples courants vibratoires au fil des décennies. En pratique, nombreux sont ceux qui rapportent une amélioration du sommeil, peut-être en raison de l'effet relaxant global de l'écoute prolongée à faible volume.",
+    "duration": "30–60 minutes (lecture séquentielle en s'endormant)",
+    "usageFrequency": "Chaque soir selon besoin",
+    "contraindications": "En cas d'insomnie chronique sévère, consultation médicale recommandée pour exclure des causes organiques (apnée du sommeil, etc.)."
   },
   {
     "id": "rife_pain_general_9",
@@ -99,7 +144,12 @@
     "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
     "intentions": ["douleur", "analgésique", "anti-douleur"],
     "waveType": "sine",
-    "playMode": "sequential"
+    "playMode": "sequential",
+    "color": "#fb7185",
+    "description": "Le protocole anti-douleur général de la CAFL est l'un des plus utilisés en pratique quotidienne. Sa logique interne est intéressante : 3 000 Hz ciblerait les agents responsables d'inflammation, tandis que 95 Hz — une fréquence inhabituellement précise — apparaît dans de nombreux protocoles analgésiques Rife, supposément en résonance avec les mécanismes de transmission de la douleur. Les fréquences de 3 Hz (Delta profond) et 20 Hz (infra-basse) servent selon les praticiens à 'ancrer' l'effet en profondeur dans le système nerveux. La recherche sur la neurostimulation électrique transcutanée (TENS) montre que des stimulations à certaines fréquences spécifiques (notamment 10–100 Hz) modulent effectivement la transmission douloureuse via les fibres nerveuses A-beta — suggérant qu'une logique fréquentielle dans la gestion de la douleur n'est pas totalement sans fondement, même si le mécanisme audio reste non prouvé.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "Selon besoin, jusqu'à 2×/jour",
+    "contraindications": "En cas de douleur aiguë ou inexpliquée, consulter un médecin pour diagnostic. Usage complémentaire uniquement."
   },
   {
     "id": "rife_immune_stimulate_10",
@@ -109,7 +159,12 @@
     "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
     "intentions": ["immunité", "système immunitaire", "défenses", "stimulation"],
     "waveType": "sine",
-    "playMode": "sequential"
+    "playMode": "sequential",
+    "color": "#2dd4bf",
+    "description": "Ce protocole de stimulation immunitaire est l'un des plus complets de la CAFL avec neuf fréquences couvrant une gamme de 835 à 2 127 Hz. Dans la tradition Rife, ces fréquences cibleraient une combinaison d'agents pathogènes opportunistes qui prolifèrent lorsque le système immunitaire est affaibli, et certaines d'entre elles (notamment autour de 2 000 Hz) auraient une action directe de 'tonification' tissulaire. Il est intéressant de noter que la recherche sur la biorésonance (un domaine distinct mais apparenté) a montré que certaines cellules immunitaires produisent effectivement des signaux bioélectriques et biophotoniques dans des gammes fréquentielles mesurables. Ce protocole est particulièrement populaire en automne/hiver dans les communautés Rife, utilisé en prévention des infections saisonnières.",
+    "duration": "30–40 minutes",
+    "usageFrequency": "3×/semaine en prévention, 1×/jour en période de convalescence",
+    "contraindications": "Les déficits immunitaires sérieux (HIV, immunodépression médicale) nécessitent un suivi médical strict. Usage complémentaire uniquement."
   },
   {
     "id": "rife_headache_12",
@@ -119,7 +174,12 @@
     "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
     "intentions": ["maux de tête", "céphalées", "migraine"],
     "waveType": "sine",
-    "playMode": "sequential"
+    "playMode": "sequential",
+    "color": "#a78bfa",
+    "description": "Le protocole pour les maux de tête et céphalées utilise une combinaison intéressante incluant 304 Hz et 120 Hz — deux fréquences relativement rares dans la CAFL. La fréquence de 304 Hz apparaît dans plusieurs protocoles neurologiques de la liste ; certains praticiens lui attribuent une action sur les tensions de la dure-mère (la membrane cérébrale). La fréquence de 120 Hz se situe dans la plage Gamma basse, et des études récentes en neurofeedback ont montré des liens entre activité Gamma et certains types de migraines (notamment les phosphènes prémigraineux). Le protocole complet, avec la descente de 10 000 Hz à 20 Hz, est utilisé de façon aiguë lors de crises et en prévention. De nombreux utilisateurs rapportent une atténuation des céphalées de tension lors d'écoute à faible volume — effet que l'on peut au moins partiellement attribuer à la relaxation induite.",
+    "duration": "15–30 minutes",
+    "usageFrequency": "Lors des épisodes, jusqu'à 2×/jour",
+    "contraindications": "Les migraines et céphalées sévères ou inhabituelles nécessitent un bilan médical. Une céphalée soudaine et intense peut être un symptôme neurologique urgent."
   },
   {
     "id": "rife_stress_13",
@@ -129,7 +189,12 @@
     "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
     "intentions": ["stress", "anxiété", "tension nerveuse", "relaxation"],
     "waveType": "sine",
-    "playMode": "sequential"
+    "playMode": "sequential",
+    "color": "#34d399",
+    "description": "Le protocole anti-stress de la CAFL est l'un des plus populaires dans les applications grand public des fréquences Rife. Avec neuf fréquences couvrant de 20 à 10 000 Hz, il constitue une version étendue du trio universel (727, 787, 880) encadré par des fréquences haute (1 550 Hz — présente dans de nombreux protocoles 'nettoyants') et basses (465 Hz, associée aux agents viraux). L'approche Rife du stress est somatique : le stress chronique affaiblirait les défenses de l'organisme et laisserait proliférer des agents pathogènes qui amplifient le cycle stress/inflammation. Quelle que soit la validité de ce mécanisme, l'écoute prolongée à volume modéré de ce type de séquence s'inscrit dans un rituel de pause qui a en lui-même une valeur thérapeutique démontrée par les recherches sur la cohérence cardiaque et le système nerveux autonome.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "1–2×/jour en période de stress intense, 3×/semaine en entretien",
+    "contraindications": "Le stress chronique sévère ou les troubles anxieux généralisés bénéficient d'un suivi psychologique. Usage complémentaire."
   },
   {
     "id": "rife_parasites_14",
@@ -139,7 +204,12 @@
     "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
     "intentions": ["parasites", "intestinal", "détox"],
     "waveType": "sine",
-    "playMode": "sequential"
+    "playMode": "sequential",
+    "color": "#a3e635",
+    "description": "Le protocole antiparasitaire de la CAFL a été popularisé notamment par Hulda Clark — biologiste controversée et figure importante du mouvement Rife moderne — qui affirmait que la fréquence de 432 000 Hz (non représentée ici) et ses harmoniques à 432 Hz pouvaient éliminer les parasites intestinaux. La liste CAFL retient les fréquences 802, 832, 1 500 et 1 550 Hz pour une action générale antiparasitaire. La fréquence de 832 Hz est particulièrement associée aux helminthes (vers intestinaux) dans les catalogues Rife. Ces protocoles sont extrêmement populaires dans les communautés de médecine naturelle et de 'nettoyage intestinal'. Il est scientifiquement établi que les parasitoses intestinales (giardia, oxyures, etc.) se traitent par antiparasitaires médicamenteux — les fréquences sonores n'ont aucune action démontrée sur ces organismes.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "1×/jour pendant 3 semaines (protocole Clark modifié), puis 3×/semaine",
+    "contraindications": "En cas de parasitose diagnostiquée, traitement médical antiparasitaire indispensable. Usage complémentaire uniquement."
   },
   {
     "id": "rife_detox_15",
@@ -149,6 +219,11 @@
     "tradition": "Royal Raymond Rife / CAFL — Consolidated Annotated Frequency List",
     "intentions": ["détox", "détoxification", "nettoyage", "foie", "toxines"],
     "waveType": "sine",
-    "playMode": "sequential"
+    "playMode": "sequential",
+    "color": "#4ade80",
+    "description": "Ce protocole de détoxification est l'un des plus complets de la CAFL avec dix fréquences. Dans la logique Rife-Clark, toute 'détox' efficace passe d'abord par l'élimination des agents pathogènes qui produisent des toxines — d'où la présence du trio universel (727, 787, 880 Hz) au cœur du protocole. La fréquence de 444 Hz, souvent associée à la santé hépatique dans les compilations modernes, est un ajout postérieur à Rife lui-même. Les fréquences extrêmes (10 000 et 20 Hz) encadrent le protocole comme des 'balayages' de spectre large. Ce protocole est généralement recommandé par les praticiens Rife à la suite d'un protocole antibactérien ou antiparasitaire — la 'réaction de Herxheimer' (aggravation temporaire lors d'une détox) étant considérée comme la preuve que le traitement fonctionne. Cette 'preuve' anecdotique est régulièrement citée dans la communauté Rife.",
+    "duration": "30–45 minutes",
+    "usageFrequency": "3–4×/semaine pendant une cure de 3 semaines",
+    "contraindications": "En cas de pathologie hépatique ou rénale diagnostiquée, consulter un médecin avant toute cure de détox. Usage complémentaire uniquement."
   }
 ]

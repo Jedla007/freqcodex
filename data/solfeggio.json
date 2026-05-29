@@ -9,7 +9,11 @@
     "waveType": "sine",
     "playMode": "continuous",
     "chakra": "Racine",
-    "color": "#b91c1c"
+    "color": "#b91c1c",
+    "description": "Considérée comme l'anesthésique naturel du spectre Solfeggio, la fréquence de 174 Hz agit comme une fondation vibratoire profonde. Elle est associée à la réduction de la douleur physique — notamment au niveau du bas du dos, des pieds et des jambes — ainsi qu'à la dissolution des tensions liées au stress chronique. Dans la tradition des fréquences sacrées, elle ancre l'énergie vitale dans le corps physique, procure un sentiment de sécurité fondamentale, et prépare le système nerveux à recevoir les fréquences plus élevées. Certains praticiens en sonothérapie l'utilisent comme ouverture systématique de séance pour détendre le corps avant toute autre application.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "Quotidien ou selon besoin",
+    "contraindications": "Aucune connue. Usage déconseillé à fort volume chez les personnes très sensibles aux stimulations sonores."
   },
   {
     "id": "solf_285",
@@ -21,7 +25,11 @@
     "waveType": "sine",
     "playMode": "continuous",
     "chakra": "Racine",
-    "color": "#c2410c"
+    "color": "#c2410c",
+    "description": "La fréquence de 285 Hz est traditionnellement associée à la régénération cellulaire et à la guérison tissulaire. Elle est censée envoyer un signal au corps pour « reconstruire » les cellules endommagées, accélérer la cicatrisation des coupures, brûlures et plaies énergétiques. Dans la cosmologie des fréquences Solfeggio, elle touche particulièrement le champ éthérique — la couche énergétique la plus proche du corps physique. Certains thérapeutes sonores l'utilisent en complément de soins pour soutenir la convalescence, renforcer la vitalité des organes et raviver la mémoire cellulaire de santé.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "1×/jour pendant les phases de récupération",
+    "contraindications": "Aucune connue. Complémentaire à un suivi médical, non substitutif."
   },
   {
     "id": "solf_396",
@@ -33,7 +41,11 @@
     "waveType": "sine",
     "playMode": "continuous",
     "chakra": "Racine",
-    "color": "#dc2626"
+    "color": "#dc2626",
+    "description": "Première fréquence de la gamme Solfeggio complète, 396 Hz est la fréquence de la libération. Elle vise à dissoudre les blocages subconscients liés à la culpabilité, aux peurs ancrées et aux traumatismes non résolus. Associée au chakra racine, elle nettoie les mémoires émotionnelles qui freinent l'épanouissement personnel et maintiennent des patterns de comportement autolimitants. Dans les pratiques de sonothérapie, elle est recommandée avant un travail psychologique ou une thérapie pour préparer le terrain émotionnel, ou en sessions régulières pour progressivement transformer les peurs conditionnées en force intérieure.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "3–5×/semaine, de préférence le matin",
+    "contraindications": "Peut faire remonter des émotions refoulées. Accompagnement thérapeutique recommandé si travail sur trauma sévère."
   },
   {
     "id": "solf_417",
@@ -45,7 +57,11 @@
     "waveType": "sine",
     "playMode": "continuous",
     "chakra": "Sacré",
-    "color": "#ea580c"
+    "color": "#ea580c",
+    "description": "La fréquence de 417 Hz est décrite comme « la fréquence du changement » dans les traditions Solfeggio. Elle est associée à la capacité de défaire les situations figées, de dissoudre les structures énergétiques qui maintiennent le statu quo et de faciliter la transition après un choc ou un traumatisme. En pratique, elle est utilisée pour purifier les espaces de vieilles énergies stagnantes, soutenir le processus de deuil ou de rupture, et créer les conditions d'une transformation profonde. Certains praticiens l'utilisent pour nettoyer les lieux de vie ou de travail avant une période de nouveau départ.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "3–5×/semaine, lors de périodes de transition",
+    "contraindications": "Déconseillé pendant les phases de profond bouleversement émotionnel sans accompagnement. Peut accélérer des processus de transformation déjà en cours."
   },
   {
     "id": "solf_432",
@@ -57,7 +73,11 @@
     "waveType": "sine",
     "playMode": "continuous",
     "chakra": "Sacré",
-    "color": "#f59e0b"
+    "color": "#f59e0b",
+    "description": "La théorie de l'accordage à 432 Hz propose que cette fréquence — contrairement au standard industriel de 440 Hz adopté en 1953 — serait en harmonie naturelle avec les mathématiques de l'univers et les proportions du corps humain. Ses défenseurs soulignent que les instruments acoustiques historiques et de nombreux compositeurs de référence accordaient autour de 432 Hz. Bien que sans validation scientifique formelle, de nombreux auditeurs rapportent une sensation de chaleur, de cohérence et de naturel plus prononcés. Elle est souvent proposée comme fréquence de fond pour le travail, la relaxation ou l'écoute musicale quotidienne.",
+    "duration": "30–60 minutes, ou en écoute de fond",
+    "usageFrequency": "Quotidien, sans limitation",
+    "contraindications": "Aucune connue."
   },
   {
     "id": "solf_528",
@@ -69,7 +89,11 @@
     "waveType": "sine",
     "playMode": "continuous",
     "chakra": "Plexus solaire",
-    "color": "#65a30d"
+    "color": "#65a30d",
+    "description": "La fréquence de 528 Hz, surnommée 'Miracle' ou 'Love Frequency', est peut-être la plus célèbre des fréquences de Solfeggio. Popularisée par le Dr Leonard Horowitz dans les années 1990, elle est associée à la réparation de l'ADN, l'ouverture du chakra du cœur et une transformation profonde de la conscience. Des études biochimiques préliminaires (non répliquées) ont suggéré des effets positifs sur la structure de l'ADN. Elle est massivement utilisée en méditation, sonothérapie et comme fréquence d'ambiance pour créer un environnement de guérison. Sa popularité mondiale en fait un point de départ idéal pour la découverte des fréquences thérapeutiques.",
+    "duration": "20–45 minutes",
+    "usageFrequency": "Quotidien",
+    "contraindications": "Aucune connue. Peut amplifier les états émotionnels — prévoir un cadre calme."
   },
   {
     "id": "solf_639",
@@ -81,7 +105,11 @@
     "waveType": "sine",
     "playMode": "continuous",
     "chakra": "Cœur",
-    "color": "#16a34a"
+    "color": "#16a34a",
+    "description": "Fréquence de la connexion et de la communication, 639 Hz cible les relations interpersonnelles dans toutes leurs dimensions. Elle est censée favoriser la communication empathique, résoudre les conflits relationnels, renforcer les liens familiaux et amicaux, et attirer des relations harmonieuses. Dans la pratique méditative, elle aide à ouvrir le chakra du cœur dans sa dimension relationnelle — pardonner, relâcher les rancœurs, reconnaître sa propre part dans les conflits. Elle est également utilisée pour harmoniser la relation à soi-même : développer la bienveillance intérieure et dissoudre l'autocritique excessive.",
+    "duration": "20–45 minutes",
+    "usageFrequency": "3–5×/semaine",
+    "contraindications": "Peut réveiller des émotions liées à des relations douloureuses. Espace calme et sécurisé recommandé."
   },
   {
     "id": "solf_741",
@@ -93,7 +121,11 @@
     "waveType": "sine",
     "playMode": "continuous",
     "chakra": "Gorge",
-    "color": "#0284c7"
+    "color": "#0284c7",
+    "description": "La fréquence de 741 Hz est associée à l'expression juste, la résolution de problèmes et la purification. Elle est censée élargir la conscience dans sa dimension pratique — améliorer la clarté perceptive, stimuler la créativité dans la résolution d'obstacles, et renforcer la capacité à s'exprimer avec authenticité. Dans les traditions ésotériques Solfeggio, elle est utilisée pour nettoyer le corps des toxines énergétiques (champs électromagnétiques, émotions absorbées), activer le chakra de la gorge, et développer l'intuition et la clairvoyance. Elle est parfois recommandée aux créatifs en période de blocage.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "3×/semaine",
+    "contraindications": "Aucune connue. Peut stimuler une envie intense d'expression — avoir de quoi écrire ou créer à portée."
   },
   {
     "id": "solf_852",
@@ -105,7 +137,11 @@
     "waveType": "sine",
     "playMode": "continuous",
     "chakra": "Troisième œil",
-    "color": "#4f46e5"
+    "color": "#4f46e5",
+    "description": "Fréquence du troisième œil et de la clairvoyance, 852 Hz est traditionnellement liée au retour vers l'ordre spirituel supérieur. Elle invite à voir au-delà des illusions de l'ego, à reconnaître sa propre vérité intérieure, et à reconnecter l'esprit rationnel avec l'intelligence intuitive. Dans la pratique méditative, elle est utilisée pour développer l'intuition, accéder à des insights profonds difficilement accessibles par la pensée ordinaire, et harmoniser le système nerveux avec l'intelligence supérieure. Elle constitue souvent une porte d'entrée naturelle vers les fréquences les plus élevées du spectre Solfeggio.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "2–3×/semaine",
+    "contraindications": "Peut provoquer des expériences de « vérité » inconfortables sur soi-même. Déconseillé en période de grande fragilité psychologique."
   },
   {
     "id": "solf_963",
@@ -117,6 +153,10 @@
     "waveType": "sine",
     "playMode": "continuous",
     "chakra": "Couronne",
-    "color": "#7c3aed"
+    "color": "#7c3aed",
+    "description": "La plus haute des fréquences de Solfeggio, 963 Hz est dite 'fréquence de Dieu' ou 'fréquence de la conscience pure'. Elle est associée au chakra couronne, à l'activation de la glande pinéale et à l'éveil spirituel. Dans les traditions contemplatives, elle est censée activer les chakras supérieurs, faciliter l'accès aux états de conscience unitive, et ouvrir le canal de connexion avec ce que certains appellent le Champ universel ou la Source. Son usage est généralement réservé aux pratiquants ayant déjà une base méditative solide, car elle peut induire des états d'expansion de conscience intenses.",
+    "duration": "20–30 minutes",
+    "usageFrequency": "2–3×/semaine, de préférence en méditation assise",
+    "contraindications": "Déconseillé aux débutants sans expérience méditative. Peut induire des états altérés intenses. Environnement calme et sécurisé indispensable."
   }
 ]
