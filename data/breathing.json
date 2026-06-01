@@ -1,0 +1,266 @@
+[
+  {
+    "id": "breath_coherence",
+    "name": "Cohérence cardiaque",
+    "category": "CALMANTES",
+    "phases": [
+      { "label": "Inspirez", "duration": 5 },
+      { "label": "Expirez",  "duration": 5 }
+    ],
+    "level": "débutant",
+    "evidenceStars": 5,
+    "color": "#0ea5e9",
+    "description": "La cohérence cardiaque est la technique de respiration la mieux documentée scientifiquement. En respirant exactement à 6 cycles par minute (5 secondes d'inspiration + 5 secondes d'expiration), vous synchronisez cœur, poumons et cerveau dans un état de résonance optimale qui maximise la variabilité de la fréquence cardiaque (HRV). La pratique «3×5×5» (3 fois par jour, 5 minutes) validée par plus de 20 études cliniques réduit l'anxiété de 33 %, le cortisol, et améliore la régulation émotionnelle. C'est la porte d'entrée idéale pour tout débutant.",
+    "benefits": ["↓ anxiété -33 %", "↑ HRV", "↓ cortisol", "↓ tension artérielle", "↑ régulation émotionnelle"],
+    "contraindications": "Aucune contre-indication connue. Adaptée à tous les âges.",
+    "warning": null
+  },
+  {
+    "id": "breath_diaphragmatique",
+    "name": "Respiration diaphragmatique",
+    "category": "CALMANTES",
+    "phases": [
+      { "label": "Inspirez", "duration": 5 },
+      { "label": "Expirez",  "duration": 7 }
+    ],
+    "level": "débutant",
+    "evidenceStars": 5,
+    "color": "#0ea5e9",
+    "description": "La respiration diaphragmatique est le mécanisme naturel que la plupart des adultes ont perdu au profit d'une respiration thoracique superficielle. En inspirant 5 secondes par le ventre (diaphragme descend, abdomen gonfle) et en expirant sur 7 secondes, on active le système parasympathique. L'asymétrie inspiration/expiration (ratio 5:7) favorise l'activation vagale immédiate. Une méta-analyse 2023 sur 15 000 participants confirme ses effets sur la récupération post-stress et l'hypertension. Pratiquer allongé les premières semaines, mains sur le ventre.",
+    "benefits": ["↓ cortisol", "↓ tension artérielle", "↑ HRV", "↑ récupération post-stress", "↑ activation parasympathique"],
+    "contraindications": "Aucune contre-indication. Peut être pratiquée à tout âge et en toute condition.",
+    "warning": null
+  },
+  {
+    "id": "breath_478",
+    "name": "4-7-8 (Dr Andrew Weil)",
+    "category": "CALMANTES",
+    "phases": [
+      { "label": "Inspirez", "duration": 4 },
+      { "label": "Retenez",  "duration": 7 },
+      { "label": "Expirez",  "duration": 8 }
+    ],
+    "level": "débutant",
+    "evidenceStars": 4,
+    "color": "#0ea5e9",
+    "description": "Surnommée «le Valium naturel» par le Dr Andrew Weil (Harvard), la technique 4-7-8 est l'une des plus puissantes pour l'anxiété aiguë. La rétention de 7 secondes est la clé : elle génère une légère accumulation de CO₂ qui ralentit le rythme cardiaque et active le parasympathique de façon intense. Études 2022-2024 : endormissement en 2-4 minutes, réduction de l'anxiété aiguë de 60 %, effet documenté sur les cravings d'addiction. Pratiquer assis. Légère sensation de vertiges normale au début.",
+    "benefits": ["↓ anxiété aiguë -60 %", "Endormissement rapide", "↓ cravings addiction", "↓ douleur chronique", "↓ FC"],
+    "contraindications": "Déconseillé en cas de troubles respiratoires sévères (BPCO, asthme non contrôlé). Commencer par 2 cycles maximum.",
+    "warning": "Sensation de légère tête légère normale. Toujours assis, jamais debout."
+  },
+  {
+    "id": "breath_box",
+    "name": "Box Breathing (Navy SEALs)",
+    "category": "CALMANTES",
+    "phases": [
+      { "label": "Inspirez", "duration": 4 },
+      { "label": "Retenez",  "duration": 4 },
+      { "label": "Expirez",  "duration": 4 },
+      { "label": "Retenez",  "duration": 4 }
+    ],
+    "level": "débutant",
+    "evidenceStars": 4,
+    "color": "#0ea5e9",
+    "description": "La respiration carrée est la technique adoptée par les Navy SEALs, forces spéciales et thérapeutes en traumatologie. Sa symétrie parfaite — 4 secondes dans chaque direction — crée un équilibre précis entre systèmes sympathique et parasympathique. Idéale sous pression : avant une performance, un examen, ou lors d'une crise de panique. Des études IRM montrent une réduction de l'activité amygdalienne dès la première utilisation. Contrairement aux techniques calmantes, elle n'endort pas — elle stabilise et clarifie le mental.",
+    "benefits": ["Calme sous pression", "↑ concentration", "↓ panique", "Clarté mentale", "Stabilité SNA"],
+    "contraindications": "Aucune contre-indication majeure. Éviter si hypertension sévère non contrôlée.",
+    "warning": null
+  },
+  {
+    "id": "breath_446_sommeil",
+    "name": "4-4-6 (Sommeil)",
+    "category": "CALMANTES",
+    "phases": [
+      { "label": "Inspirez", "duration": 4 },
+      { "label": "Retenez",  "duration": 4 },
+      { "label": "Expirez",  "duration": 6 }
+    ],
+    "level": "débutant",
+    "evidenceStars": 4,
+    "color": "#0ea5e9",
+    "description": "Adaptation accessible de la technique 4-7-8 spécialement optimisée pour l'endormissement. Les 4 secondes d'inspiration nasale oxygènent sans activer, la rétention de 4 secondes permet l'assimilation maximale, et les 6 secondes d'expiration buccale créent la décélération cardiaque caractéristique de l'endormissement. Une étude publiée dans Sleep Medicine (2024) montre que 10 minutes au coucher réduisent le temps d'endormissement de 58 % et améliorent le sommeil profond. Recommandée en priorité pour les insomnies liées aux pensées anxieuses.",
+    "benefits": ["↓ temps d'endormissement -58 %", "↑ sommeil profond (delta)", "↓ pensées anxieuses", "↓ insomnie", "↓ FC au coucher"],
+    "contraindications": "Aucune contre-indication. Pratiquer allongé, lumière éteinte.",
+    "warning": null
+  },
+  {
+    "id": "breath_expiration_prolongee",
+    "name": "Expiration prolongée (ratio 1:2)",
+    "category": "CALMANTES",
+    "phases": [
+      { "label": "Inspirez", "duration": 4 },
+      { "label": "Expirez",  "duration": 8 }
+    ],
+    "level": "débutant",
+    "evidenceStars": 5,
+    "color": "#0ea5e9",
+    "description": "Le principe du ratio 1:2 est l'un des mieux compris de la physiologie respiratoire : c'est pendant l'expiration que le nerf vague est le plus actif. Un ratio 4:8 génère une activation parasympathique continue et puissante. Une méta-analyse publiée dans Hypertension (2023) sur 2 000 participants confirme une réduction de la pression artérielle systolique de 4 à 7 mmHg après 4 semaines. Recommandée comme complément non médicamenteux à la prise en charge de l'hypertension, et pour le sevrage tabagique et la gestion des crises d'anxiété.",
+    "benefits": ["↓ tension artérielle -4 à 7 mmHg", "↑ activation parasympathique", "↓ hypertension", "↓ crises anxiété", "Aide sevrage tabagique"],
+    "contraindications": "Aucune contre-indication majeure. Déconseillée si hypotension chronique.",
+    "warning": null
+  },
+  {
+    "id": "breath_nadi_shodhana",
+    "name": "Nadi Shodhana (narines alternées)",
+    "category": "EQUILIBRANTES",
+    "phases": [
+      { "label": "Inspirez", "duration": 4 },
+      { "label": "Retenez",  "duration": 4 },
+      { "label": "Expirez",  "duration": 4 },
+      { "label": "Retenez",  "duration": 4 }
+    ],
+    "level": "intermédiaire",
+    "evidenceStars": 4,
+    "color": "#10b981",
+    "description": "La technique la plus étudiée du pranayama avec plus de 200 publications scientifiques. On alterne l'inspiration et l'expiration entre narine gauche (parasympathique, hémisphère droit) et narine droite (sympathique, hémisphère gauche) avec le pouce et l'annulaire. Des études EEG montrent qu'elle équilibre l'activité des deux hémisphères en 9 tours et réduit le stress de 41 %. Guide : inspirez narine gauche 4s → bouchez les deux 4s → expirez narine droite 4s → inspirez narine droite 4s → bouchez 4s → expirez narine gauche 4s.",
+    "benefits": ["↓ stress -41 %", "Équilibre hémisphères cérébraux", "↑ clarté mentale", "↑ HRV équilibrée", "↓ anxiété"],
+    "contraindications": "Rhinite ou congestion nasale sévère. Déconseillé en cas d'obstruction nasale totale.",
+    "warning": "Technique bilatérale : alterner les narines manuellement. Le métronome guide le rythme de chaque phase."
+  },
+  {
+    "id": "breath_ujjayi",
+    "name": "Ujjayi (respiration de la victoire)",
+    "category": "EQUILIBRANTES",
+    "phases": [
+      { "label": "Inspirez", "duration": 4 },
+      { "label": "Expirez",  "duration": 6 }
+    ],
+    "level": "intermédiaire",
+    "evidenceStars": 4,
+    "color": "#10b981",
+    "description": "Technique fondamentale du yoga, l'Ujjayi se distingue par la légère constriction de la glotte qui crée un son d'océan continu. Cette résistance à l'air ralentit naturellement le souffle et stimule les barorécepteurs carotidiens (capteurs de pression artérielle), générant une chaleur interne particulière et une profonde concentration. Des études confirment une amélioration de l'oxygénation cérébrale et une réduction de l'anxiété. Guide : contractez légèrement la gorge comme pour faire embuer un miroir, mais gardez la bouche fermée. Le son doit être audible de vous mais discret.",
+    "benefits": ["↑ oxygénation cérébrale", "↓ anxiété", "↑ focus", "↑ chaleur interne", "↑ régulation pression"],
+    "contraindications": "Aucune contre-indication majeure. Pratiquer doucement au début pour éviter tensions cervicales.",
+    "warning": "La constriction glottique doit être douce. Arrêter si sensation d'inconfort à la gorge."
+  },
+  {
+    "id": "breath_bhramari",
+    "name": "Bhramari (respiration de l'abeille)",
+    "category": "EQUILIBRANTES",
+    "phases": [
+      { "label": "Inspirez", "duration": 4 },
+      { "label": "Expirez",  "duration": 8 }
+    ],
+    "level": "débutant",
+    "evidenceStars": 4,
+    "color": "#10b981",
+    "description": "Bhramari utilise le bourdonnement de la voix sur l'expiration comme outil de régulation unique. Après une inspiration nasale, l'expiration se fait avec un son «mmmm» continu, les index fermant les oreilles (ou pouces). Ce bourdonnement produit des vibrations crâniennes qui activent les noyaux vagaux dans le tronc cérébral, réduisant la tension artérielle et le rythme cardiaque quasi immédiatement. Études indiennes 2023 : réduction de la colère et de l'anxiété en 5 minutes, augmentation mesurable des ondes gamma cérébrales. Très efficace pour les migraines et l'acouphène.",
+    "benefits": ["↓ tension artérielle", "↓ colère/anxiété", "↑ ondes gamma", "Soulagement migraines", "Aide acouphènes"],
+    "contraindications": "Déconseillé en cas d'infection auriculaire. Pas de pression forte sur les oreilles.",
+    "warning": "Sur l'expiration, émettre un son 'mmmm' continu et doux — comme un bourdonnement d'abeille."
+  },
+  {
+    "id": "breath_55_optimal",
+    "name": "Respiration 5.5 (optimale)",
+    "category": "EQUILIBRANTES",
+    "phases": [
+      { "label": "Inspirez", "duration": 5.5 },
+      { "label": "Expirez",  "duration": 5.5 }
+    ],
+    "level": "débutant",
+    "evidenceStars": 5,
+    "color": "#10b981",
+    "description": "La respiration à 5,5 cycles par minute (5,5 secondes + 5,5 secondes) a été identifiée par des études de Stanford et documentée par James Nestor (Breath, 2020) comme la fréquence respiratoire «optimale» universelle. À ce rythme précis, on atteint la résonance cardiorespiratoire maximale où HRV, pression artérielle et fréquence respiratoire s'oscillent en parfaite synchronie. Fascinant : de nombreuses traditions spirituelles millénaires (chant grégorien, mantras hindous, psalmodie bouddhiste, rosaire catholique) convergent toutes vers cette même fréquence de 5,5/min.",
+    "benefits": ["Résonance cardiorespiratoire maximale", "↑ HRV", "Bien-être profond", "↓ tension artérielle", "↑ qualité sommeil"],
+    "contraindications": "Aucune contre-indication. La technique la plus universellement accessible.",
+    "warning": null
+  },
+  {
+    "id": "breath_kapalabhati",
+    "name": "Kapalabhati (feu respiratoire)",
+    "category": "ENERGISANTES",
+    "phases": [
+      { "label": "Expirez",  "duration": 0.5 },
+      { "label": "Inspirez", "duration": 0.5 }
+    ],
+    "level": "intermédiaire",
+    "evidenceStars": 4,
+    "color": "#f97316",
+    "description": "Kapalabhati («crâne brillant» en sanskrit) consiste en des expulsions abdominales rapides et puissantes suivies d'inspirations passives, au rythme de 1 à 2 cycles par seconde. Le diaphragme agit comme une pompe activant le plexus solaire. Effets immédiats : activation sympathique contrôlée, nettoyage des sinus, augmentation de la vigilance et de l'énergie métabolique. Études 2023 : amélioration de la capacité pulmonaire, réduction des toxines muqueuses. Pratiquer en lotus ou sur chaise, expiration forcée par le nez (abdomen rentre), inspiration passive. Commencer par 30 cycles, augmenter progressivement.",
+    "benefits": ["↑ énergie immédiate", "↑ vigilance", "Nettoyage sinus", "↑ capacité pulmonaire", "↑ activité sympathique contrôlée"],
+    "contraindications": "Contre-indiqué en cas d'hypertension, grossesse, épilepsie, hernie, problèmes cardiaques.",
+    "warning": "⚠ Déconseillé si hypertension, grossesse ou troubles cardiaques. Pratiquer l'estomac vide."
+  },
+  {
+    "id": "breath_bhastrika",
+    "name": "Bhastrika (soufflet de forge)",
+    "category": "ENERGISANTES",
+    "phases": [
+      { "label": "Inspirez", "duration": 1 },
+      { "label": "Expirez",  "duration": 1 }
+    ],
+    "level": "intermédiaire",
+    "evidenceStars": 4,
+    "color": "#f97316",
+    "description": "Bhastrika est la version intensive du pranayama énergisant. Contrairement à Kapalabhati, inspiration ET expiration sont toutes deux actives, puissantes et égales — comme un soufflet de forge. Ce double travail diaphragmatique génère une activation sympathique intense mais contrôlée, une oxygénation maximale et une élévation rapide de la température corporelle. L'effet ressenti : vague d'énergie montante, chaleur interne, mental ultra-actif. Études : augmentation du VO₂max lors de pratiques régulières. Pratiquer par séries de 20-60 mouvements suivies de 30 secondes de respiration normale. Maximum 3 séries.",
+    "benefits": ["↑ oxygénation", "↑ métabolisme", "↓ léthargie", "↑ chaleur interne", "↑ VO₂max"],
+    "contraindications": "Contre-indiqué en cas de problèmes cardiaques, pulmonaires, hypertension, grossesse, glaucome.",
+    "warning": "⚠ Risque cardiaque si pratiqué excessivement. Maximum 3 séries de 60 cycles. Arrêter si étourdissements."
+  },
+  {
+    "id": "breath_wim_hof",
+    "name": "Wim Hof (phase active)",
+    "category": "ENERGISANTES",
+    "phases": [
+      { "label": "Inspirez", "duration": 1.5 },
+      { "label": "Expirez",  "duration": 1.5 }
+    ],
+    "level": "intermédiaire",
+    "evidenceStars": 5,
+    "color": "#f97316",
+    "description": "La méthode Wim Hof est le protocole respiratoire le plus étudié de la dernière décennie. En 30-40 respirations puissantes et profondes, on crée une hyperoxygénation et une hypocapnie contrôlée libérant de l'adrénaline endogène sans stress émotionnel. Les études de l'Université Radboud (2014 & 2023) prouvent que les pratiquants modulent leur système immunitaire volontairement. Ce guide suit la phase de respiration active. La rétention et la rétention de récupération (15 s) se pratiquent selon la méthode complète. JAMAIS dans l'eau ou en conduisant.",
+    "benefits": ["↑ adrénaline contrôlée", "↑ modulation immunitaire", "↑ tolérance froid", "↑ énergie", "↑ résilience mentale"],
+    "contraindications": "Contre-indiqué en cas d'épilepsie, troubles cardiaques, grossesse, pression artérielle instable.",
+    "warning": "⚠ DANGER : Ne JAMAIS pratiquer dans l'eau, en conduisant, ou debout. Toujours allongé ou assis."
+  },
+  {
+    "id": "breath_buteyko",
+    "name": "Méthode Buteyko",
+    "category": "SPECIFIQUES",
+    "phases": [
+      { "label": "Inspirez", "duration": 3 },
+      { "label": "Retenez",  "duration": 3 },
+      { "label": "Expirez",  "duration": 3 }
+    ],
+    "level": "intermédiaire",
+    "evidenceStars": 5,
+    "color": "#94a3b8",
+    "description": "Développée par le Dr Konstantin Buteyko dans les années 1950, cette méthode inverse le paradigme occidental de la «respiration profonde». Buteyko a observé que la sur-respiration chronique diminue le CO₂ — le signal qui force les cellules à libérer l'oxygène (effet Bohr). La pratique consiste à réduire volontairement le volume respiratoire au minimum, créant une légère faim d'air qui rééduque les chémorécepteurs. Une méta-analyse 2023 montre une réduction des crises d'asthme de 70 % en 6 semaines. La légère sensation de manque d'air est le signal positif recherché.",
+    "benefits": ["↓ crises asthme -70 %", "↑ tolérance CO₂", "↓ hyperventilation chronique", "↑ oxygénation tissulaire", "↓ rhinite"],
+    "contraindications": "Encadrement professionnel conseillé pour les asthmatiques sévères. Ne jamais arrêter les médicaments sans avis médical.",
+    "warning": "La légère sensation de faim d'air est intentionnelle et bénéfique. S'arrêter si inconfort important."
+  },
+  {
+    "id": "breath_triangle",
+    "name": "Triangle respiratoire (4-4-8)",
+    "category": "SPECIFIQUES",
+    "phases": [
+      { "label": "Inspirez", "duration": 4 },
+      { "label": "Retenez",  "duration": 4 },
+      { "label": "Expirez",  "duration": 8 }
+    ],
+    "level": "débutant",
+    "evidenceStars": 4,
+    "color": "#94a3b8",
+    "description": "La respiration triangulaire est une technique yogique hybride qui combine la stabilité de la rétention avec la puissance de l'expiration prolongée. L'inspiration de 4 secondes oxygène, la rétention de 4 secondes assimile et active le tonus vagal, et l'expiration de 8 secondes (double de l'inspiration) génère l'activation parasympathique profonde du ratio 1:2. C'est une technique de transition idéale pour les personnes qui trouvent le Box Breathing trop rigide et le 4-7-8 trop intense. Recommandée pour le stress chronique et la préparation au sommeil.",
+    "benefits": ["↑ tonus vagal", "↓ stress chronique", "↑ activation parasympathique", "Aide endormissement", "Équilibre SNA"],
+    "contraindications": "Aucune contre-indication connue. Très sûre et accessible à tous.",
+    "warning": null
+  },
+  {
+    "id": "breath_sudarshan_kriya",
+    "name": "Sudarshan Kriya (rythme de base)",
+    "category": "TRANSPERSONNELLES",
+    "phases": [
+      { "label": "Inspirez", "duration": 5 },
+      { "label": "Expirez",  "duration": 5 }
+    ],
+    "level": "avancé",
+    "evidenceStars": 5,
+    "color": "#a855f7",
+    "description": "La Sudarshan Kriya (SK) est la technique centrale de l'Art of Living de Sri Sri Ravi Shankar. Elle consiste en une séquence de trois rythmes cycliques progressifs accompagnés du mantra «So-Hum». Plus de 30 études cliniques randomisées documentent : réduction de la dépression de 70 %, du cortisol de 56 %, augmentation des antioxydants et régulation de l'expression génétique. Ce guide propose une initiation au rythme lent de base (5/5). La pratique complète (rythme lent → moyen → rapide, 20-30 min) ne peut être apprise qu'avec un enseignant certifié Art of Living.",
+    "benefits": ["↓ dépression -70 %", "↓ cortisol -56 %", "↑ antioxydants", "Régulation génétique", "↑ sentiment d'unité"],
+    "contraindications": "La pratique complète nécessite un enseignant certifié. Déconseillée en phase maniaque ou psychose active.",
+    "warning": "Ce guide présente uniquement le rythme de base. La méthode complète s'apprend en atelier Art of Living."
+  }
+]
