@@ -6,13 +6,33 @@
 
 const CACHE = 'freqcodex-v1'
 
-// ── Installation : précache le shell minimal ──────────────────────────────────
+// ── Installation : précache TOUT le contenu statique dès la 1ère ouverture ────
 self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE)
       .then(cache => cache.addAll([
+        // Shell
         '/freqcodex/',
         '/freqcodex/index.html',
+        // Données fréquences
+        '/freqcodex/data/solfeggio.json',
+        '/freqcodex/data/brainwaves.json',
+        '/freqcodex/data/schumann.json',
+        '/freqcodex/data/planetary.json',
+        '/freqcodex/data/cafl.json',
+        '/freqcodex/data/speculative.json',
+        '/freqcodex/data/breathing.json',
+        // Sons — précachés immédiatement, pas besoin de les jouer d'abord
+        '/freqcodex/sounds/silence.wav',
+        '/freqcodex/sounds/one-ding.mp3',
+        '/freqcodex/sounds/trois-ding.mp3',
+        '/freqcodex/sounds/432hz-bowl.mp3',
+        '/freqcodex/sounds/528hz-bowl.mp3',
+        // Icônes
+        '/freqcodex/apple-touch-icon.png',
+        '/freqcodex/icon-192.png',
+        '/freqcodex/icon-512.png',
+        '/freqcodex/favicon.svg',
       ]))
       .then(() => self.skipWaiting())
   )
