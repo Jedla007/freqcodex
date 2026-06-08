@@ -11,7 +11,7 @@ const CACHE = 'freqcodex-v2'
 const PRECACHE = [
   '/freqcodex/apple-touch-icon.png',
   '/freqcodex/assets/index-DjPHoOko.css',
-  '/freqcodex/assets/index-DmZlEoux.js',
+  '/freqcodex/assets/index-P-mKJhF9.js',
   '/freqcodex/data/brainwaves.json',
   '/freqcodex/data/breathing.json',
   '/freqcodex/data/cafl.json',
@@ -27,6 +27,8 @@ const PRECACHE = [
   '/freqcodex/manifest.json',
   '/freqcodex/sounds/432hz-bowl.mp3',
   '/freqcodex/sounds/528hz-bowl.mp3',
+  '/freqcodex/sounds/breath-in.mp3',
+  '/freqcodex/sounds/breath-out.mp3',
   '/freqcodex/sounds/one-ding.mp3',
   '/freqcodex/sounds/silence.wav',
   '/freqcodex/sounds/trois-ding.mp3',
