@@ -35,17 +35,17 @@
     "phases": [
       {
         "label": "Inspirez",
-        "duration": 5
+        "duration": 4
       },
       {
         "label": "Expirez",
-        "duration": 7
+        "duration": 6
       }
     ],
     "level": "débutant",
     "evidenceStars": 5,
     "color": "#0ea5e9",
-    "description": "La respiration diaphragmatique est le mécanisme naturel que la plupart des adultes ont perdu au profit d'une respiration thoracique superficielle. En inspirant 5 secondes par le ventre (diaphragme descend, abdomen gonfle) et en expirant sur 7 secondes, on active le système parasympathique. L'asymétrie inspiration/expiration (ratio 5:7) favorise l'activation vagale immédiate. Une méta-analyse 2023 sur 15 000 participants confirme ses effets sur la récupération post-stress et l'hypertension. Pratiquer allongé les premières semaines, mains sur le ventre.",
+    "description": "La respiration diaphragmatique est le mécanisme naturel que la plupart des adultes ont perdu au profit d'une respiration thoracique superficielle. En inspirant 4 secondes par le ventre (diaphragme descend, abdomen gonfle) et en expirant sur 6 secondes, on active le système parasympathique. L'asymétrie inspiration/expiration (ratio 4:6) favorise l'activation vagale immédiate. Une méta-analyse 2023 sur 15 000 participants confirme ses effets sur la récupération post-stress et l'hypertension. Pratiquer allongé les premières semaines, mains sur le ventre.",
     "benefits": [
       "↓ cortisol",
       "↓ tension artérielle",
