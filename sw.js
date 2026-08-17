@@ -10,8 +10,8 @@ const CACHE = 'freqcodex-v2'
 // Rempli par le script post-build (tous les assets du dist/ + sons + JSON)
 const PRECACHE = [
   '/freqcodex/apple-touch-icon.png',
+  '/freqcodex/assets/index-BqHUewmw.js',
   '/freqcodex/assets/index-DjPHoOko.css',
-  '/freqcodex/assets/index-susA-auz.js',
   '/freqcodex/data/brainwaves.json',
   '/freqcodex/data/breathing.json',
   '/freqcodex/data/cafl.json',
